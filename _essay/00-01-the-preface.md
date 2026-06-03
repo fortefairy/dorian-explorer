@@ -19,8 +19,8 @@ beauty.
 There is no such thing as a moral or an immoral book. Books are well written,
 or badly written. That is all.
 
-The nineteenth century dislike of realism is the rage of Caliban{% include essay/feature/aside.html text="Caliban, from William Shakespeare's The Tempest is a complicated figure." %} seeing his own
-face in a glass.
+The nineteenth century dislike of realism is the rage of Caliban seeing his own
+face in a glass.{% include essay/feature/aside.html text="Caliban, from William Shakespeare's The Tempest is a complicated figure. Half man and half monster and son of a sea witch, he is tricked by the wizard, Prospero, into servitude. Some Shakespearean scholars view Caliban as a symbol of the indigenous populations exploited by European colonizers. He is used as a foil against the other servant character in the story, Ariel, a willing servant of Prospero. Unlike Ariel, Caliban attempts to rebel. The notion of Caliban's rage in response to seeing his reflection can be viewed as a statement on our own discomfort with our flaws both as people and as a society. However, in the next sentence, we see a troubling of this notion, there is rage and frustration in both being recognized and unseen." %}
 
 The nineteenth century dislike of romanticism is the rage of Caliban not seeing
 his own face in a glass. The moral life of man forms part of the subject-matter
