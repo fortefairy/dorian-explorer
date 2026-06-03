@@ -19,7 +19,7 @@ beauty.
 There is no such thing as a moral or an immoral book. Books are well written,
 or badly written. That is all.
 
-The nineteenth century dislike of realism is the rage of Caliban seeing his own
+The nineteenth century dislike of realism is the rage of Caliban{% include essay/feature/aside.html text="Caliban, from William Shakespeare's The Tempest is a complicated figure." %} seeing his own
 face in a glass.
 
 The nineteenth century dislike of romanticism is the rage of Caliban not seeing
