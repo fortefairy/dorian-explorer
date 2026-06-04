@@ -38,7 +38,7 @@ some curious dream from which he feared he might awake.
 
 “It is your best work, Basil, the best thing you have ever done,”
 said Lord Henry languidly. “You must certainly send it next year to the
-Grosvenor. The Academy is too large and too vulgar. Whenever I have gone there,
+Grosvenor.{% include essay/feature/aside.html text="The Grosvenor House, demolished in 1927, was a large townhouse in London known for its private art collection." %} The Academy is too large and too vulgar. Whenever I have gone there,
 there have been either so many people that I have not been able to see the
 pictures, which was dreadful, or so many pictures that I have not been able to
 see the people, which was worse. The Grosvenor is really the only place.”
@@ -69,7 +69,7 @@ were so vain; and I really can’t see any resemblance between you, with
 your rugged strong face and your coal-black hair, and this young Adonis, who
 looks as if he was made out of ivory and rose-leaves. Why, my dear Basil, he is
 a Narcissus, and you—well, of course you have an intellectual expression
-and all that. But beauty, real beauty, ends where an intellectual expression
+and all that.{% include essay/feature/aside.html text="Narcissus is a figure in Greek Mythology. The myth states that he was so beautiful that he fell in love with his own reflection in a pond." %} But beauty, real beauty, ends where an intellectual expression
 begins. Intellect is in itself a mode of exaggeration, and destroys the harmony
 of any face. The moment one sits down to think, one becomes all nose, or all
 forehead, or something horrid. Look at the successful men in any of the learned
@@ -328,7 +328,7 @@ sometimes think, Harry, that there are only two eras of any importance in the
 world’s history. The first is the appearance of a new medium for art, and
 the second is the appearance of a new personality for art also. What the
 invention of oil-painting was to the Venetians, the face of Antinous was to
-late Greek sculpture, and the face of Dorian Gray will some day be to me. It is
+late Greek sculpture, and the face of Dorian Gray will some day be to me. {% include essay/feature/aside.html text="Antinous was a Greek boy and lover of the Roman emporer, Hadrian. After his death, Hadrian deified the boy, founding a city in his name and commissioned sculptures. Over the centuries, he has come to signify homosexuality. The allusion to Antinous here is telling, suggesting that the relationship between Dorian and Basil is not altogether fraternal." %} It is
 not merely that I paint from him, draw from him, sketch from him. Of course, I
 have done all that. But he is much more to me than a model or a sitter. I
 won’t tell you that I am dissatisfied with what I have done of him, or
