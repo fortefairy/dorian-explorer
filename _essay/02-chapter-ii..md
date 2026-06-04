@@ -7,7 +7,7 @@ order: 3
 As they entered they saw Dorian Gray. He was seated at the piano, with his back
 to them, turning over the pages of a volume of Schumann’s “Forest
 Scenes.” “You must lend me these, Basil,” he cried. “I
-want to learn them. They are perfectly charming.”
+want to learn them. They are perfectly charming.”{% include essay/feature/aside.html text="Forest Scenes" %}
 
 “That entirely depends on how you sit to-day, Dorian.”
 
@@ -28,7 +28,7 @@ her victims also.”
 
 “I am in Lady Agatha’s black books at present,” answered
 Dorian with a funny look of penitence. “I promised to go to a club in
-Whitechapel with her last Tuesday, and I really forgot all about it. We were to
+Whitechapel with her last Tuesday, and I really forgot all about it.{% include essay/feature/aside.html text="This is the first mention of Whitechapel, but will not be the last. Whitechapel was also the location where the bodies of the victims of Jack the Ripper were found." %} We were to
 have played a duet together—three duets, I believe. I don’t know
 what she will say to me. I am far too frightened to call.”
 
@@ -73,8 +73,8 @@ Hallward bit his lip. “If Dorian wishes it, of course you must stay.
 Dorian’s whims are laws to everybody, except himself.”
 
 Lord Henry took up his hat and gloves. “You are very pressing, Basil, but
-I am afraid I must go. I have promised to meet a man at the Orleans. Good-bye,
-Mr. Gray. Come and see me some afternoon in Curzon Street. I am nearly always
+I am afraid I must go. I have promised to meet a man at the Orleans.{% include essay/feature/aside.html text="The Orleans House was a villa in London that was demolished in the 20s. It has since been revived as a gallery." %} Good-bye,
+Mr. Gray. Come and see me some afternoon in Curzon Street.{% include essay/feature/aside.html text="A street in Mayfair, London. Oscar Wilde mentions it in four of his works." %} I am nearly always
 at home at five o’clock. Write to me when you are coming. I should be
 sorry to miss you.”
 
@@ -143,7 +143,7 @@ and your soul grows sick with longing for the things it has forbidden to
 itself, with desire for what its monstrous laws have made monstrous and
 unlawful. It has been said that the great events of the world take place in the
 brain. It is in the brain, and the brain only, that the great sins of the world
-take place also. You, Mr. Gray, you yourself, with your rose-red youth and your
+take place also.{% include essay/feature/aside.html text="Oscar Wilde revisits these quote during his time imprisoned in Reading Gaol in his work, De Profundis." %} You, Mr. Gray, you yourself, with your rose-red youth and your
 rose-white boyhood, you have had passions that have made you afraid, thoughts
 that have filled you with terror, day-dreams and sleeping dreams whose mere
 memory might stain your cheek with shame—”
