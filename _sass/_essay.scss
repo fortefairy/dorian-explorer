@@ -120,14 +120,16 @@ a {
 
 /*Marginal Notes on Desktop*/
 aside, .aside {
-        display: block;
-        float: none;
-        margin: 1.25em 0 1.25em 1.5em;
-        width: auto;
-        font-size: 0.875em;
-        font-style: italic;
-        color: var(--cb-text-800);
-    }
+    display: inline;
+    float: right;
+    position: relative;
+    width: 20vw;
+    margin-right: -26vw;
+    font-size: 0.82em !important;
+    font-style: italic;
+    line-height: 1.55;
+    color: var(--cb-text-800);
+}
 
 
 /*Marginal Notes on mobile — kept as fallback for no-JS; JS hides and replaces with flag system */
