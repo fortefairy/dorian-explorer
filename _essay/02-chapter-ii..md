@@ -7,8 +7,8 @@ order: 3
 As they entered they saw Dorian Gray. He was seated at the piano, with his back
 to them, turning over the pages of a volume of Schumann’s “Forest
 Scenes.” “You must lend me these, Basil,” he cried. “I
-want to learn them. They are perfectly charming.”{% include essay/feature/aside.html objectid="dor005" aside-type="allusion" text="Forest Scenes" %}
-{% include feature/audio.html objectid="dor005" width="50" caption="a video from the collection" %}
+want to learn them. They are perfectly charming.”
+{% include feature/audio.html objectid="dor005" width="50" caption="Forest Scenes" %}
 
 
 “That entirely depends on how you sit to-day, Dorian.”
@@ -145,8 +145,7 @@ and your soul grows sick with longing for the things it has forbidden to
 itself, with desire for what its monstrous laws have made monstrous and
 unlawful. It has been said that the great events of the world take place in the
 brain. It is in the brain, and the brain only, that the great sins of the world
-take place also.{% include essay/feature/aside.html objectid="dor009" aside-type = "connection" text="Oscar Wilde revisits these quote during his time imprisoned in Reading Gaol in his work, De Profundis." %} You, Mr. Gray, you yourself, with your rose-red youth and your
-rose-white boyhood, you have had passions that have made you afraid, thoughts
+take place also.{% include essay/feature/aside.html objectid="dor009" aside-type = "connection" text="Oscar Wilde revisits these quote during his time imprisoned in Reading Gaol in his work, De Profundis." %} You, Mr. Gray, you yourself, with your rose-red youth and you rose-white boyhood, you have had passions that have made you afraid, thoughts
 that have filled you with terror, day-dreams and sleeping dreams whose mere
 memory might stain your cheek with shame—”
 

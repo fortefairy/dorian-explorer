@@ -168,6 +168,9 @@ The old gentleman growled approvingly and rang the bell for his servant. Lord
 Henry passed up the low arcade into Burlington Street and turned his steps in
 the direction of Berkeley Square.
 
+{% include essay/new-section.html %} 
+
+
 So that was the story of Dorian Gray’s parentage. Crudely as it had been
 told to him, it had yet stirred him by its suggestion of a strange, almost
 modern romance. A beautiful woman risking everything for a mad passion. A few
@@ -197,18 +200,29 @@ could not do with him. He could be made a Titan or a toy. What a pity it was
 that such beauty was destined to fade! ... And Basil? From a psychological
 point of view, how interesting he was! The new manner in art, the fresh mode of
 looking at life, suggested so strangely by the merely visible presence of one
-who was unconscious of it all; the silent spirit that dwelt in dim woodland,{% include essay/feature/aside.html aside-type="allusion" caption="The Leanan Sidhe" text="While Wilde does not mention it specifically, he could be referencing the Leanan Sidhe here, a mythical being from Irish folklore who takes human lovers. She offers artistic inspiration and success to her lovers, but the affair slowly kills them. Oscar Wilde's own mother, who wrote under the penname Speranza, repopularized the myth in the 20th century." objectid="dor012" %} and walked unseen in open field, suddenly showing herself, Dryadlike and not afraid, because in his soul who sought for her there had been wakened that
+who was unconscious of it all; the silent spirit that dwelt in dim woodland,{% include essay/feature/aside.html aside-type="allusion" record=True caption="The Leanan Sidhe" text="While Wilde does not mention it specifically, he could be referencing the Leanan Sidhe here, a mythical being from Irish folklore who takes human lovers. She offers artistic inspiration and success to her lovers, but the affair slowly kills them. Oscar Wilde's own mother, who wrote under the penname Speranza, repopularized the myth in the 20th century." objectid="dor012" %}and walked unseen in open field, suddenly showing herself, Dryadlike and not afraid, because in his soul who sought for her there had been wakened that
 wonderful vision to which alone are wonderful things revealed; the mere shapes
 and patterns of things becoming, as it were, refined, and gaining a kind of
 symbolical value, as though they were themselves patterns of some other and
 more perfect form whose shadow they made real: how strange it all was! He
 remembered something like it in history. Was it not Plato, that artist in
-thought, who had first analyzed it?{% include essay/feature/aside.html aside-type="allusion" text="The philosopher Plato wrote much about true forms, absolute divine truth. In his philosophy, art aspires to capture or imitate these true forms but always falls short. The irony in Wilde making this reference in relationship to inspiration is that Plato had an ill view towards art." objectid="dor013" %} Was it not Buonarotti who had carved it in the coloured marbles of a sonnet-sequence?{% include essay/feature/aside.html aside-type="allusion"  caption="Buonarotti"  text="Buonarotti, more famously known as Michaelangelo was an Italian painter, sculptor, poet and architect. He is known for his depictions of the divine, particularly his frescoes on the ceiling and walls of the Sistine Chapel. He is also known for his sculpture of David, a nude depiction of the biblical hero, and many believe he was homosexual." objectid="dor014" %}  But in our own century it was
+thought, who had first analyzed it?{% include essay/feature/aside.html aside-type="allusion" caption="Plato" text="The philosopher Plato wrote much about true forms, absolute divine truth. In his philosophy, art aspires to capture or imitate these true forms but always falls short. The irony in Wilde making this reference in relationship to inspiration is that Plato had an ill view towards art." record=True objectid="dor013" %} Was it not Buonarotti who had carved it in the coloured marbles of a sonnet-sequence?{% include essay/feature/aside.html aside-type="allusion"  caption="Buonarotti" record=True text="Buonarotti, more famously known as Michaelangelo was an Italian painter, sculptor, poet and architect. He is known for his depictions of the divine, particularly his frescoes on the ceiling and walls of the Sistine Chapel. He is also known for his sculpture of David, a nude depiction of the biblical hero, and many believe he was homosexual." objectid="dor014" %}  But in our own century it was
 strange.... Yes; he would try to be to Dorian Gray what, without knowing it,
 the lad was to the painter who had fashioned the wonderful portrait. He would
 seek to dominate him—had already, indeed, half done so. He would make
 that wonderful spirit his own. There was something fascinating in this son of
 love and death.
+
+
+{% include essay/feature/essay-carousel.html objectid="dor012;dor013;dor014" %}
+
+{% include essay/new-section.html %} 
+{% include essay/feature/blockquote.html
+   quote="Behind every exquisite thing that existed, there was something tragic."
+   speaker="Lord Henry Wotten" size="xl"
+   align="center" %}
+
+{% include essay/new-section.html %} 
 
 Suddenly he stopped and glanced up at the houses. He found that he had passed
 his aunt’s some distance, and, smiling to himself, turned back. When he
@@ -394,13 +408,15 @@ mistakes.”
 
 A laugh ran round the table.
 
+{% include essay/new-section.html %} 
+
 He played with the idea and grew wilful; tossed it into the air and transformed
 it; let it escape and recaptured it; made it iridescent with fancy and winged
 it with paradox. The praise of folly, as he went on, soared into a philosophy,
 and philosophy herself became young, and catching the mad music of pleasure,
 wearing, one might fancy, her wine-stained robe and wreath of ivy, danced like
-a Bacchante over the hills of life,{% include essay/feature/aside.html aside-type="allusion" text="A Bacchante is a priestess of the Greek God, Dionysus, known as Bacchus in Rome. Dionysus was the god of theatre, wine, festivity, and religious ecstasy. They are described in The Bacchae by Euripides. The allusion to the Bacchae here serves to hint at the desctructive hedonism that will plague the rest of the book/" objectid="dor016" %} and mocked the slow Silenus for being
-sober. {% include essay/feature/aside.html aside-type="allusion" text="Silenus was a satyr in Greek mythology who advised and tutored Dionysus. Silenus is typically depicted as being drunk. The notion of mocking Silenus for being sober suggests that the hedonism goes beyond mere drunkenness" objectid="dor017" %}Facts fled before her like frightened forest things. Her white feet trod
+a Bacchante over the hills of life,{% include essay/feature/aside.html aside-type="allusion" text="A Bacchante is a priestess of the Greek God, Dionysus, known as Bacchus in Rome. Dionysus was the god of theatre, wine, festivity, and religious ecstasy. They are described in The Bacchae by Euripides. The allusion to the Bacchae here serves to hint at the desctructive hedonism that will plague the rest of the book/" objectid="dor016" record="True"%} and mocked the slow Silenus for being
+sober. {% include essay/feature/aside.html aside-type="allusion" text="Silenus was a satyr in Greek mythology who advised and tutored Dionysus. Silenus is typically depicted as being drunk. The notion of mocking Silenus for being sober suggests that the hedonism goes beyond mere drunkenness" record="True" objectid="dor017" %}Facts fled before her like frightened forest things. Her white feet trod
 the huge press at which wise Omar sits, till the seething grape-juice rose
 round her bare limbs in waves of purple bubbles, or crawled in red foam over
 the vat’s black, dripping, sloping sides. It was an extraordinary
@@ -411,6 +427,8 @@ imagination. He was brilliant, fantastic, irresponsible. He charmed his
 listeners out of themselves, and they followed his pipe, laughing. Dorian Gray
 never took his gaze off him, but sat like one under a spell, smiles chasing
 each other over his lips and wonder growing grave in his darkening eyes.
+
+{% include essay/feature/essay-carousel.html id="carousel2" objectid="dor016;dor017" %}
 
 At last, liveried in the costume of the age, reality entered the room in the
 shape of a servant to tell the duchess that her carriage was waiting. She wrung
