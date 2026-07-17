@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', function () {
     numEl.textContent = n;
     aside.prepend(numEl);
 
+   
+
     if (refs[i]) {
       refs[i].textContent = n;
       refs[i].dataset.asideId = String(n);
@@ -23,8 +25,15 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
+  // Desktop: alternate asides left/right
+  if (window.innerWidth > 768) {
+    asides.forEach(function (aside, i) {
+      if (i % 2 === 1) aside.classList.add('aside--left');
+    });
+    return;
+  }
+
   // Flag + modal system only on narrow viewports
-  if (window.innerWidth > 768) return;
 
   // Build a Bootstrap modal shell once
   var modalEl = document.createElement('div');
@@ -105,6 +114,8 @@ document.addEventListener('DOMContentLoaded', function () {
     clone.style.removeProperty('display');
     var numInClone = clone.querySelector('.aside-num');
     if (numInClone) numInClone.remove();
+    var bodyInClone = clone.querySelector('.aside-body');
+    if (bodyInClone) bodyInClone.classList.add('is-open');
 
     modalNum.textContent = 'Note ' + n;
     modalBody.innerHTML  = '';

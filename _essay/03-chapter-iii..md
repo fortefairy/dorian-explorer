@@ -5,8 +5,7 @@ order: 4
 ## CHAPTER III.
 
 At half-past twelve next day Lord Henry Wotton strolled from Curzon Street over
-to the Albany to call on his uncle, Lord Fermor, a genial if somewhat
-rough-mannered old bachelor, whom the outside world called selfish because it
+to the Albany {% include essay/feature/aside.html aside-type="location" text="Albany is an apartment complex that dates back to the 18th century located in Picadilly, London. Lord Byron once resided there. Jack Worthing, Wilde's character from The Importance of Being Ernest also lives there under his assumed name. The building was known for housing bachelors." objectid="dor010"%} to call on his uncle, Lord Fermor, a genial if somewhat rough-mannered old bachelor, whom the outside world called selfish because it
 derived no particular benefit from him, but who was considered generous by
 Society as he fed the people who amused him. His father had been our ambassador
 at Madrid when Isabella was young and Prim unthought of, but had retired from
@@ -50,7 +49,7 @@ Besides, I always deal with Dartmoor’s tradesmen, and consequently they
 never bother me. What I want is information: not useful information, of course;
 useless information.”
 
-“Well, I can tell you anything that is in an English Blue Book, Harry,
+“Well, I can tell you anything that is in an English Blue Book,{% include essay/feature/aside.html aside-type="connection" text="English Blue Books are a type of diplomatic color book. These typically feature official diplomatic correspondence and other documents"%} Harry,
 although those fellows nowadays write a lot of nonsense. When I was in the
 Diplomatic, things were much better. But I hear they let them in now by
 examination. What can you expect? Examinations, sir, are pure humbug from
@@ -123,8 +122,7 @@ Fermor, striking the table with his fist.
 
 “They don’t last, I am told,” muttered his uncle.
 
-“A long engagement exhausts them, but they are capital at a steeplechase.
-They take things flying. I don’t think Dartmoor has a chance.”
+“A long engagement exhausts them, but they are capital at a steeplechase.{% include essay/feature/aside.html aside-type="connection" text="A steeplechase is a type of race, originally with horses, that resembles an obstacle course. Lord Henry is suggesting that while Americans love a challenge, they don't do well in games of endurance." %} They take things flying. I don’t think Dartmoor has a chance.”
 
 “Who are her people?” grumbled the old gentleman. “Has she
 got any?”
@@ -148,7 +146,7 @@ secret of their charm.”
 always telling us that it is the paradise for women.”
 
 “It is. That is the reason why, like Eve, they are so excessively anxious
-to get out of it,” said Lord Henry. “Good-bye, Uncle George. I
+to get out of it,” said Lord Henry. {% include essay/feature/aside.html aside-type="allusion" text="This biblical allusion refers to the creation myth of Adam and Eve wherein Eve is tempted by the unknown forbidden fruit. Her succumbing to this temptation requires Adam and Eve to leave the paradise of the Garden of Eden forever. This also serves as foreshadowing for the characters of Dorian and Sybil Vane." objectid="dor011" %}“Good-bye, Uncle George. I
 shall be late for lunch, if I stop any longer. Thanks for giving me the
 information I wanted. I always like to know everything about my new friends,
 and nothing about my old ones.”
@@ -199,16 +197,13 @@ could not do with him. He could be made a Titan or a toy. What a pity it was
 that such beauty was destined to fade! ... And Basil? From a psychological
 point of view, how interesting he was! The new manner in art, the fresh mode of
 looking at life, suggested so strangely by the merely visible presence of one
-who was unconscious of it all; the silent spirit that dwelt in dim woodland,
-and walked unseen in open field, suddenly showing herself, Dryadlike and not
-afraid, because in his soul who sought for her there had been wakened that
+who was unconscious of it all; the silent spirit that dwelt in dim woodland,{% include essay/feature/aside.html aside-type="allusion" caption="The Leanan Sidhe" text="While Wilde does not mention it specifically, he could be referencing the Leanan Sidhe here, a mythical being from Irish folklore who takes human lovers. She offers artistic inspiration and success to her lovers, but the affair slowly kills them. Oscar Wilde's own mother, who wrote under the penname Speranza, repopularized the myth in the 20th century." objectid="dor012" %} and walked unseen in open field, suddenly showing herself, Dryadlike and not afraid, because in his soul who sought for her there had been wakened that
 wonderful vision to which alone are wonderful things revealed; the mere shapes
 and patterns of things becoming, as it were, refined, and gaining a kind of
 symbolical value, as though they were themselves patterns of some other and
 more perfect form whose shadow they made real: how strange it all was! He
 remembered something like it in history. Was it not Plato, that artist in
-thought, who had first analyzed it? Was it not Buonarotti who had carved it in
-the coloured marbles of a sonnet-sequence? But in our own century it was
+thought, who had first analyzed it?{% include essay/feature/aside.html aside-type="allusion" text="The philosopher Plato wrote much about true forms, absolute divine truth. In his philosophy, art aspires to capture or imitate these true forms but always falls short. The irony in Wilde making this reference in relationship to inspiration is that Plato had an ill view towards art." objectid="dor013" %} Was it not Buonarotti who had carved it in the coloured marbles of a sonnet-sequence?{% include essay/feature/aside.html aside-type="allusion"  caption="Buonarotti"  text="Buonarotti, more famously known as Michaelangelo was an Italian painter, sculptor, poet and architect. He is known for his depictions of the divine, particularly his frescoes on the ceiling and walls of the Sistine Chapel. He is also known for his sculpture of David, a nude depiction of the biblical hero, and many believe he was homosexual." objectid="dor014" %}  But in our own century it was
 strange.... Yes; he would try to be to Dorian Gray what, without knowing it,
 the lad was to the painter who had fashioned the wonderful portrait. He would
 seek to dominate him—had already, indeed, half done so. He would make
@@ -327,7 +322,7 @@ judge them.”
 “Dear me!” said Lady Agatha, “how you men argue! I am sure I
 never can make out what you are talking about. Oh! Harry, I am quite vexed with
 you. Why do you try to persuade our nice Mr. Dorian Gray to give up the East
-End? I assure you he would be quite invaluable. They would love his
+End? {% include essay/feature/aside.html aside-type="location" text="The East End of London was predominantly low income at the time Oscar Wilde was writing and largely consisted of Jewish and immigrant residents." objectid="dor015" %} I assure you he would be quite invaluable. They would love his
 playing.”
 
 “I want him to play to me,” cried Lord Henry, smiling, and he
@@ -404,8 +399,8 @@ it; let it escape and recaptured it; made it iridescent with fancy and winged
 it with paradox. The praise of folly, as he went on, soared into a philosophy,
 and philosophy herself became young, and catching the mad music of pleasure,
 wearing, one might fancy, her wine-stained robe and wreath of ivy, danced like
-a Bacchante over the hills of life, and mocked the slow Silenus for being
-sober. Facts fled before her like frightened forest things. Her white feet trod
+a Bacchante over the hills of life,{% include essay/feature/aside.html aside-type="allusion" text="A Bacchante is a priestess of the Greek God, Dionysus, known as Bacchus in Rome. Dionysus was the god of theatre, wine, festivity, and religious ecstasy. They are described in The Bacchae by Euripides. The allusion to the Bacchae here serves to hint at the desctructive hedonism that will plague the rest of the book/" objectid="dor016" %} and mocked the slow Silenus for being
+sober. {% include essay/feature/aside.html aside-type="allusion" text="Silenus was a satyr in Greek mythology who advised and tutored Dionysus. Silenus is typically depicted as being drunk. The notion of mocking Silenus for being sober suggests that the hedonism goes beyond mere drunkenness" objectid="dor017" %}Facts fled before her like frightened forest things. Her white feet trod
 the huge press at which wise Omar sits, till the seething grape-juice rose
 round her bare limbs in waves of purple bubbles, or crawled in red foam over
 the vat’s black, dripping, sloping sides. It was an extraordinary
@@ -423,7 +418,7 @@ her hands in mock despair. “How annoying!” she cried. “I must
 go. I have to call for my husband at the club, to take him to some absurd
 meeting at Willis’s Rooms, where he is going to be in the chair. If I am
 late he is sure to be furious, and I couldn’t have a scene in this
-bonnet. It is far too fragile. A harsh word would ruin it. No, I must go, dear
+bonnet.{% include essay/feature/aside.html aside-type="location" text="Almack's, referrred to several social clubs in the 19th and 20th centuries. One of these social clubs, also known as Willis's Rooms was located in St. James's in Westminster." objectid="dor018" %} It is far too fragile. A harsh word would ruin it. No, I must go, dear
 Agatha. Good-bye, Lord Henry, you are quite delightful and dreadfully
 demoralizing. I am sure I don’t know what to say about your views. You
 must come and dine with us some night. Tuesday? Are you disengaged
@@ -468,7 +463,7 @@ has a perfect host, and a perfect library.”
 
 “You will complete it,” answered the old gentleman with a courteous
 bow. “And now I must bid good-bye to your excellent aunt. I am due at the
-Athenaeum. It is the hour when we sleep there.”
+Athenaeum. {% include essay/feature/aside.html aside-type="location" text="The Athenaeum Club is a mixed-gender social club that dates back to the 19th century. Its focus is on individuals with intellectual interests. Throughout its history, it has boasted membership of many famous individuals including Henry James, Rudyard Kipling, Robert Louis Stevenson, and Arthur Sullivan" objectid="dor019" %}It is the hour when we sleep there.”
 
 “All of you, Mr. Erskine?”
 

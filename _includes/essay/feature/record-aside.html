@@ -1,0 +1,14 @@
+{% comment %}
+
+    Record Aside
+    Displays a plain record (no thumbnail) as an aside/margin note with a link to the item page.
+    Called by aside.html when display_template="record" and no image_small or image_thumb is present.
+
+    Options (passed through from parent include):
+    - "item" = collection item object with objectid (required, set by parent)
+    - "caption" = custom caption to override item title (optional)
+    - "text" = additional text shown below the link (optional)
+
+{%- endcomment -%}
+{%- capture item_link -%}{{ '/items/' | relative_url }}{% if item.parentid %}{{ item.parentid }}.html#{{ item.objectid }}{% else %}{{ item.objectid }}.html{% endif %}{%- endcapture -%}
+<span class="aside"><strong class="aside-title">{% if include.caption %}{{ include.caption }} {% else %}{{ item.title }} {% endif %} {% if include["aside-type"] == 'connection' %}{% include feature/icon.html icon="leaf" label="connection" %}{% elsif include["aside-type"] == 'allusion' %}{% include feature/icon.html icon="book" label="allusion" %}{% elsif include["aside-type"] == 'location' %}{% include feature/icon.html icon="geo-fill" label="location" %}{% endif %}</strong><span class="aside-body"><a class="d-block small text-secondary mt-1" href="{{ item_link }}" title="link to item page">View associated record {% include feature/icon.html icon="box-arrow-up-right" label="link to page" class="ms-1 mini mb-1"%}</a>{% if include.text %}{{ include.text }}{% endif %}</span></span>

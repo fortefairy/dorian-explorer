@@ -7,7 +7,9 @@ order: 3
 As they entered they saw Dorian Gray. He was seated at the piano, with his back
 to them, turning over the pages of a volume of Schumann’s “Forest
 Scenes.” “You must lend me these, Basil,” he cried. “I
-want to learn them. They are perfectly charming.”{% include essay/feature/aside.html text="Forest Scenes" %}
+want to learn them. They are perfectly charming.”{% include essay/feature/aside.html objectid="dor005" aside-type="allusion" text="Forest Scenes" %}
+{% include feature/audio.html objectid="dor005" width="50" caption="a video from the collection" %}
+
 
 “That entirely depends on how you sit to-day, Dorian.”
 
@@ -28,9 +30,7 @@ her victims also.”
 
 “I am in Lady Agatha’s black books at present,” answered
 Dorian with a funny look of penitence. “I promised to go to a club in
-Whitechapel with her last Tuesday, and I really forgot all about it.{% include essay/feature/aside.html text="This is the first mention of Whitechapel, but will not be the last. Whitechapel was also the location where the bodies of the victims of Jack the Ripper were found." %} We were to
-have played a duet together—three duets, I believe. I don’t know
-what she will say to me. I am far too frightened to call.”
+Whitechapel with her last Tuesday, and I really forgot all about it.{% include essay/feature/aside.html aside-type="location" text="This is the first mention of Whitechapel, but will not be the last. Whitechapel was also the location where the bodies of the victims of Jack the Ripper were found." objectid="dor006"%} We were to have played a duet together—three duets, I believe. I don’t know what she will say to me. I am far too frightened to call.”
 
 “Oh, I will make your peace with my aunt. She is quite devoted to you.
 And I don’t think it really matters about your not being there. The
@@ -73,8 +73,8 @@ Hallward bit his lip. “If Dorian wishes it, of course you must stay.
 Dorian’s whims are laws to everybody, except himself.”
 
 Lord Henry took up his hat and gloves. “You are very pressing, Basil, but
-I am afraid I must go. I have promised to meet a man at the Orleans.{% include essay/feature/aside.html text="The Orleans House was a villa in London that was demolished in the 20s. It has since been revived as a gallery." %} Good-bye,
-Mr. Gray. Come and see me some afternoon in Curzon Street.{% include essay/feature/aside.html text="A street in Mayfair, London. Oscar Wilde mentions it in four of his works." %} I am nearly always
+I am afraid I must go. I have promised to meet a man at the Orleans.{% include essay/feature/aside.html objectid="dor007" aside-type="location" text="The Orleans House was a villa in London that was demolished in the 20s. It has since been revived as a gallery." %} Good-bye,
+Mr. Gray. Come and see me some afternoon in Curzon Street.{% include essay/feature/aside.html objectid="dor008" aside-type="location" text="A street in Mayfair, London. Oscar Wilde mentions it in four of his works." %} I am nearly always
 at home at five o’clock. Write to me when you are coming. I should be
 sorry to miss you.”
 
@@ -95,6 +95,8 @@ about that. Sit down again, Harry. And now, Dorian, get up on the platform, and
 don’t move about too much, or pay any attention to what Lord Henry says.
 He has a very bad influence over all his friends, with the single exception of
 myself.”
+
+{% include essay/new-section.html %} 
 
 Dorian Gray stepped up on the dais with the air of a young Greek martyr, and
 made a little *moue* of discontent to Lord Henry, to whom he had rather
@@ -143,10 +145,23 @@ and your soul grows sick with longing for the things it has forbidden to
 itself, with desire for what its monstrous laws have made monstrous and
 unlawful. It has been said that the great events of the world take place in the
 brain. It is in the brain, and the brain only, that the great sins of the world
-take place also.{% include essay/feature/aside.html text="Oscar Wilde revisits these quote during his time imprisoned in Reading Gaol in his work, De Profundis." %} You, Mr. Gray, you yourself, with your rose-red youth and your
+take place also.{% include essay/feature/aside.html objectid="dor009" aside-type = "connection" text="Oscar Wilde revisits these quote during his time imprisoned in Reading Gaol in his work, De Profundis." %} You, Mr. Gray, you yourself, with your rose-red youth and your
 rose-white boyhood, you have had passions that have made you afraid, thoughts
 that have filled you with terror, day-dreams and sleeping dreams whose mere
 memory might stain your cheek with shame—”
+
+{% include essay/new-section.html %} 
+
+
+{% include essay/feature/blockquote.html
+   quote="It has been said that the great events of the world take place in the
+brain. It is in the brain, and the brain only, that the great sins of the world
+take place also."
+   speaker="Lord Henry Wotten" size="xl"
+   align="center" %}
+
+   {% include essay/new-section.html %} 
+
 
 “Stop!” faltered Dorian Gray, “stop! you bewilder me. I
 don’t know what to say. There is some answer to you, but I cannot find
@@ -208,6 +223,8 @@ him what you want. I have got to work up this background, so I will join you
 later on. Don’t keep Dorian too long. I have never been in better form
 for painting than I am to-day. This is going to be my masterpiece. It is my
 masterpiece as it stands.”
+
+{% include essay/new-section.html %} 
 
 Lord Henry went out to the garden and found Dorian Gray burying his face in the
 great cool lilac-blossoms, feverishly drinking in their perfume as if it had
@@ -315,6 +332,7 @@ for them to come in. They turned to each other and smiled.
 “I am waiting,” he cried. “Do come in. The light is quite
 perfect, and you can bring your drinks.”
 
+
 They rose up and sauntered down the walk together. Two green-and-white
 butterflies fluttered past them, and in the pear-tree at the corner of the
 garden a thrush began to sing.
@@ -329,6 +347,8 @@ Women are so fond of using it. They spoil every romance by trying to make it
 last for ever. It is a meaningless word, too. The only difference between a
 caprice and a lifelong passion is that the caprice lasts a little
 longer.”
+
+{% include essay/new-section.html %}
 
 As they entered the studio, Dorian Gray put his hand upon Lord Henry’s
 arm. “In that case, let our friendship be a caprice,” he murmured,
@@ -446,7 +466,14 @@ what I am now! Why did you paint it? It will mock me some day—mock me
 horribly!” The hot tears welled into his eyes; he tore his hand away and,
 flinging himself on the divan, he buried his face in the cushions, as though he
 was praying.
+{% include essay/new-section.html %}
 
+{% include essay/feature/blockquote.html
+   quote="I am jealous of everything whose beauty does not die."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+
+{% include essay/new-section.html %}
 “This is your doing, Harry,” said the painter bitterly.
 
 Lord Henry shrugged his shoulders. “It is the real Dorian Gray—that
