@@ -147,7 +147,7 @@ aside.aside--left, .aside.aside--left {
 }
 
 /*Marginal Notes on mobile — kept as fallback for no-JS; JS hides and replaces with flag system */
-@media (max-width: 768px) {
+@media (max-width: 1372px) {
     aside, .aside {
         display: block;
         float: none;
