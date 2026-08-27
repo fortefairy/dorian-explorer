@@ -109,7 +109,7 @@ absolutely nothing to do, almost died of *ennui*, and became a confirmed
 misanthrope. And besides, my dear old Basil, if you really want to console me,
 teach me rather to forget what has happened, or to see it from a proper
 artistic point of view. Was it not Gautier who used to write about *la
-consolation des arts*? {% include essay/feature/aside.html aside-type="allusion" text="Guatier was a French art and literary critic. The phrase, 'la consolation des arts' can be translated to 'the consolation of the arts'. Dorian is using art here as a justification for suffering." objectid="dor046" %}I remember picking up a little vellum-covered book in
+consolation des arts*?{% include essay/feature/aside.html aside-type="allusion" text="Guatier was a French art and literary critic. The phrase, 'la consolation des arts' can be translated to 'the consolation of the arts'. Dorian is using art here as a justification for suffering." objectid="dor046" %} I remember picking up a little vellum-covered book in
 your studio one day and chancing on that delightful phrase. Well, I am not like
 that young man you told me of when we were down at Marlow together, the young
 man who used to say that yellow satin could console one for all the miseries of

@@ -65,10 +65,19 @@ that came from his own temperament. The love that he bore him—for it was
 really love—had nothing in it that was not noble and intellectual. It was
 not that mere physical admiration of beauty that is born of the senses and that
 dies when the senses tire. It was such love as Michelangelo had known, and
-Montaigne, and Winckelmann, and Shakespeare himself.{% include essay/feature/aside.html aside-type="allusion" text="Wilde references four individuals here. First, <a href='/items/dor047.html'>Michelangelo</a>, the Italian Renaissance artist who he has referenced before. Then,<a href='/items/dor047.html'>Michel de Montaigne</a> a writer of the French Renaissance and <a href='/items/dor003.html'>Johann Joachim Winckelmann</a>, a German Art Historian. Finally, he references <a href='/items/dor003.html'>William Shakespeare</a> again, this time referencing the man himself rather than his works. All of these individuals regarded art not just as something to admire, but as something to be analyzed and studied as well." %} Yes, Basil could have saved him. But it was too late now. The past could always be annihilated.
+Montaigne, and Winckelmann, and Shakespeare himself.{% include essay/feature/aside.html aside-type="allusion" text="Wilde references four individuals here. First, <a href='/items/dor047.html'>Michelangelo</a>, the Italian Renaissance artist who he has referenced before. Then,<a href='/items/dor047.html'>Michel de Montaigne</a> a writer of the French Renaissance and <a href='/items/dor003.html'>Johann Joachim Winckelmann</a>, a German Art Historian. Finally, he references <a href='/items/dor003.html'>William Shakespeare</a> again, this time referencing the man himself rather than his works. All of these individuals regarded art not just as something to admire, but as something to be analyzed and studied as well. Another important connection is that there has been speculation about all of these figures' sexualities." %} Yes, Basil could have saved him. But it was too late now. The past could always be annihilated.
 Regret, denial, or forgetfulness could do that. But the future was inevitable.
 There were passions in him that would find their terrible outlet, dreams that
 would make the shadow of their evil real.
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="There were passions in him that would find their terrible outlet, dreams that
+would make the shadow of their evil real."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 He took up from the couch the great purple-and-gold texture that covered it,
 and, holding it in his hands, passed behind the screen. Was the face on the
