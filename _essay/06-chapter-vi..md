@@ -72,7 +72,7 @@ interfere with what charming people do. If a personality fascinates me,
 whatever mode of expression that personality selects is absolutely delightful
 to me. Dorian Gray falls in love with a beautiful girl who acts Juliet, and
 proposes to marry her. Why not? If he wedded Messalina, he would be none the
-less interesting. {% include essay/feature/aside.html aside-type="allusion" text="Messalina was the third wife of the Roman emperor, Claudius. She was infamous for being promiscuous and allegedly conspired against her husband. She was executed for this alleged conspiracy" objectid="dor034" %}You know I am not a champion of marriage. The real drawback
+less interesting. You know I am not a champion of marriage. The real drawback
 to marriage is that it makes one unselfish. And unselfish people are
 colourless. They lack individuality. Still, there are certain temperaments that
 marriage makes more complex. They retain their egotism, and add to it many
@@ -101,8 +101,6 @@ are other and more interesting bonds between men and women. I will certainly
 encourage them. They have the charm of being fashionable. But here is Dorian
 himself. He will tell you more than I can.”
 
-{% include essay/new-section.html %} 
-
 “My dear Harry, my dear Basil, you must both congratulate me!” said
 the lad, throwing off his evening cape with its satin-lined wings and shaking
 each of his friends by the hand in turn. “I have never been so happy. Of
@@ -123,14 +121,14 @@ like, and then you will tell us how it all came about.”
 seats at the small round table. “What happened was simply this. After I
 left you yesterday evening, Harry, I dressed, had some dinner at that little
 Italian restaurant in Rupert Street you introduced me to, and went down at
-eight o’clock to the theatre. {% include essay/feature/aside.html aside-type="location" text="This street in London was named after Prince Rupert. It's now home to London's Gay Village, though it certainly wasn't at the time of the book." objectid="dor035" %}Sibyl was playing Rosalind. Of course, the
+eight o’clock to the theatre. Sibyl was playing Rosalind. Of course, the
 scenery was dreadful and the Orlando absurd. But Sibyl! You should have seen
 her! When she came on in her boy’s clothes, she was perfectly wonderful.
 She wore a moss-coloured velvet jerkin with cinnamon sleeves, slim, brown,
 cross-gartered hose, a dainty little green cap with a hawk’s feather
 caught in a jewel, and a hooded cloak lined with dull red. She had never seemed
 to me more exquisite. She had all the delicate grace of that Tanagra figurine
-that you have in your studio, Basil.{% include essay/feature/aside.html aside-type="allusion" text="Tanagra figurines are Greek terracotta figurines. Many were found in the town of Tanagra, giving them the name. Wilde makes reference to them in several of his works." objectid="dor036" %} Her hair clustered round her face like
+that you have in your studio, Basil. Her hair clustered round her face like
 dark leaves round a pale rose. As for her acting—well, you shall see her
 to-night. She is simply a born artist. I sat in the dingy box absolutely
 enthralled. I forgot that I was in London and in the nineteenth century. I was

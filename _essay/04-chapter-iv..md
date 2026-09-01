@@ -11,7 +11,7 @@ olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork,
 and its brickdust felt carpet strewn with silk, long-fringed Persian rugs. On a
 tiny satinwood table stood a statuette by Clodion{% include essay/feature/aside.html aside-type="connection" text="Clodion was a French sculptor in the Rococco style."%} and beside it lay a copy of
 Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered
-with the gilt daisies that Queen had selected for her device.{% include essay/feature/aside.html aside-type="allusion" text="Les Cent Nouvelles is considered to be one of the first works of literary prose in French and Clovis Eve was a famous French bookbinder. The book is a collection of stories about the French the bourgeoisée. Margaret of Valois</a> was the queen of France." objectid="dor020" %} Some large blue
+with the gilt daisies that Queen had selected for her device.{% include essay/feature/aside.html aside-type="allusion" text="Les Cent Nouvelles is considered to be one of the first works of literary prose in French and Clovis Eve was a famous French bookbinder. The book is a collection of stories about the French the bourgeoisée. <a href='https://collectionbuilder.github.io/tutorials.html'> Margaret of Valois</a> was the queen of France. Despite her political acumen and accounts that she was kind and fair, later depictions of her, such as those by Alexandre Dumas, painted an apocryphal picture of her as a nymphomaniac." objectid="dor011" %} Some large blue
 china jars and parrot-tulips were ranged on the mantelshelf, and through the
 small leaded panes of the window streamed the apricot-coloured light of a
 summer day in London.
@@ -20,7 +20,7 @@ Lord Henry had not yet come in. He was always late on principle, his principle
 being that punctuality is the thief of time. So the lad was looking rather
 sulky, as with listless fingers he turned over the pages of an elaborately
 illustrated edition of Manon Lescaut that he had found in one of the
-book-cases. {% include essay/feature/aside.html aside-type="allusion" text="Manon Lescaut is a French Romance novel that tells the story of a nobleman falling in love with a common woman. It is a tragedy that uses the romance to tell the story of a moral decline. It's inclusion here may be foreshadowing for the path Dorian's life takes." objectid="dor021" %} The formal monotonous ticking of the Louis Quatorze clock annoyed
+book-cases. The formal monotonous ticking of the Louis Quatorze clock annoyed
 him. Once or twice he thought of going away.
 
 At last he heard a step outside, and the door opened. “How late you are,
@@ -45,7 +45,7 @@ in love with somebody, and, as her passion was never returned, she had kept all
 her illusions. She tried to look picturesque, but only succeeded in being
 untidy. Her name was Victoria, and she had a perfect mania for going to church.
 
-“That was at Lohengrin, Lady Henry, I think?” {% include essay/feature/aside.html aside-type="allusion" text="Lohengrin is an opera written by Wagner. The well known bridal chorus played at weddings comes from this opera." objectid="dor022" %} 
+“That was at Lohengrin, Lady Henry, I think?”
 
 “Yes; it was at dear Lohengrin. I like Wagner’s music better than
 anybody’s. It is so loud that one can talk the whole time without other
@@ -80,7 +80,7 @@ I’ve seen him.”
 his dark, crescent-shaped eyebrows and looking at them both with an amused
 smile. “So sorry I am late, Dorian. I went to look after a piece of old
 brocade in Wardour Street and had to bargain for hours for it. Nowadays people
-know the price of everything and the value of nothing.”{% include essay/feature/aside.html aside-type="location" text="Wardour Street is a street in London's Soho. In the nineteenth century, it was known for antique shops, though later it became a famous locale for the city's music and film scene." objectid="dor023" %}
+know the price of everything and the value of nothing.”
 
 “I am afraid I must be going,” exclaimed Lady Henry, breaking an
 awkward silence with her silly sudden laugh. “I have promised to drive
@@ -91,9 +91,6 @@ suppose? So am I. Perhaps I shall see you at Lady Thornbury’s.”
 her as, looking like a bird of paradise that had been out all night in the
 rain, she flitted out of the room, leaving a faint odour of frangipanni. Then
 he lit a cigarette and flung himself down on the sofa.
-
-{% include essay/new-section.html %} 
-
 
 “Never marry a woman with straw-coloured hair, Dorian,” he said
 after a few puffs.
@@ -160,7 +157,7 @@ However, tell me about your genius. How long have you known her?”
 After all, it never would have happened if I had not met you. You filled me
 with a wild desire to know everything about life. For days after I met you,
 something seemed to throb in my veins. As I lounged in the park, or strolled
-down Piccadilly,{% include essay/feature/aside.html aside-type="location" text="Picadilly is a main thoroughfare in London. In the nineteenth and early twentienth centuries, it was known for inns, pubs, and bookshops." objectid="dor024" %} I used to look at every one who passed me and wonder, with a
+down Piccadilly, I used to look at every one who passed me and wonder, with a
 mad curiosity, what sort of lives they led. Some of them fascinated me. Others
 filled me with terror. There was an exquisite poison in the air. I had a
 passion for sensations.... Well, one evening about seven o’clock, I
@@ -183,15 +180,6 @@ I really went in and paid a whole guinea for the stage-box. To the present day
 I can’t make out why I did so; and yet if I hadn’t—my dear
 Harry, if I hadn’t—I should have missed the greatest romance of my
 life. I see you are laughing. It is horrid of you!”
-
-{% include essay/new-section.html %} 
-
-{% include essay/feature/blockquote.html
-   quote="I felt that this grey monstrous London of ours, with its myriads of people, its sordid sinners, and its splendid sins, as you once phrased it, must have something in store for me."
-   speaker="Dorian Gray" size="xl"
-   align="center" %}
-{% include essay/new-section.html %} 
-
 
 “I am not laughing, Dorian; at least I am not laughing at you. But you
 should not say the greatest romance of your life. You should say the first
@@ -231,10 +219,10 @@ on earth I should do when I caught sight of the play-bill. What do you think
 the play was, Harry?”
 
 “I should think ‘The Idiot Boy’, or ‘Dumb but
-Innocent’.{% include essay/feature/aside.html aside-type="allusion" text="The Idiot Boy was a long poem featured first in Wordsworth and Coleridge's Lyrical Ballads. It tells the story of a young boy, his mother and their neighbors. It wasn't well received when it was first published." objectid="dor025" %} Our fathers used to like that sort of piece, I believe. The
+Innocent’. Our fathers used to like that sort of piece, I believe. The
 longer I live, Dorian, the more keenly I feel that whatever was good enough for
 our fathers is not good enough for us. In art, as in politics, *les
-grandpères ont toujours tort*.”{% include essay/feature/aside.html text="Grandfathers are always wrong" %} 
+grandpères ont toujours tort*.”
 
 “This play was good enough for us, Harry. It was Romeo and Juliet. I must
 admit that I was rather annoyed at the idea of seeing Shakespeare done in such
@@ -270,15 +258,13 @@ boy in hose and doublet and dainty cap. She has been mad, and has come into the
 presence of a guilty king, and given him rue to wear and bitter herbs to taste
 of. She has been innocent, and the black hands of jealousy have crushed her
 reedlike throat. I have seen her in every age and in every costume. Ordinary
-women never appeal to one’s imagination.{% include essay/feature/aside.html aside-type="allusion" text="Wilde references several famous Shakespeare plays and characters. First <a href='/items/dor026.html'>Juliet </a> from Romeo and Juliet, then <a href='/items/dor027.html'>Rosalind </a> from As You Like it, and <a href='/items/dor028.html'>Imogen</a> from Cymbeline. While he doesn't name his additional allusions, the madwoman he references is <a href='/items/dor029.html'>Ophelia</a> from Hamlet and the innocent woman is <a href='/items/dor030.html'>Desdemona</a> from Othello. It is notable that of all of these heroines, only two survive until the end of the play and only one of them, Rosalind, is from a comedy." %} They are limited to their
+women never appeal to one’s imagination. They are limited to their
 century. No glamour ever transfigures them. One knows their minds as easily as
 one knows their bonnets. One can always find them. There is no mystery in any
 of them. They ride in the park in the morning and chatter at tea-parties in the
 afternoon. They have their stereotyped smile and their fashionable manner. They
 are quite obvious. But an actress! How different an actress is! Harry! why
 didn’t you tell me that the only thing worth loving is an actress?”
-
-{% include essay/feature/essay-carousel.html id="carousel3" objectid="dor026;dor027;dor028;dor029;dor030" %}
 
 “Because I have loved so many of them, Dorian.”
 
@@ -295,8 +281,6 @@ will tell me everything you do.”
 “Yes, Harry, I believe that is true. I cannot help telling you things.
 You have a curious influence over me. If I ever did a crime, I would come and
 confess it to you. You would understand me.”
-
-{% include essay/new-section.html %} 
 
 “People like you—the wilful sunbeams of life—don’t
 commit crimes, Dorian. But I am much obliged for the compliment, all the same.
@@ -426,17 +410,6 @@ ashes into pain. My God, Harry, how I worship her!” He was walking up and
 down the room as he spoke. Hectic spots of red burned on his cheeks. He was
 terribly excited.
 
-{% include essay/new-section.html %} 
-
-{% include essay/feature/blockquote.html
-   quote="I want to make Romeo jealous. I
-want the dead lovers of the world to hear our laughter and grow sad. I want a
-breath of our passion to stir their dust into consciousness, to wake their
-ashes into pain."
-   speaker="Dorian Gray" size="xl"
-   align="center" %}
-{% include essay/new-section.html %} 
-
 Lord Henry watched him with a subtle sense of pleasure. How different he was
 now from the shy frightened boy he had met in Basil Hallward’s studio!
 His nature had developed like a flower, had borne blossoms of scarlet flame.
@@ -503,9 +476,6 @@ perfume on his handkerchief out of a large, gold-topped bottle that stood on
 the table. “It must be, if you say it. And now I am off. Imogen is
 waiting for me. Don’t forget about to-morrow. Good-bye.”
 
-{% include essay/new-section.html %} 
-
-
 As he left the room, Lord Henry’s heavy eyelids drooped, and he began to
 think. Certainly few people had ever interested him so much as Dorian Gray, and
 yet the lad’s mad adoration of some one else caused him not the slightest
@@ -570,7 +540,6 @@ motive power in experience. It was as little of an active cause as conscience
 itself. All that it really demonstrated was that our future would be the same
 as our past, and that the sin we had done once, and with loathing, we would do
 many times, and with joy.
-
 
 It was clear to him that the experimental method was the only method by which
 one could arrive at any scientific analysis of the passions; and certainly
