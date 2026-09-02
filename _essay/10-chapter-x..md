@@ -103,7 +103,7 @@ and reminding him that they were to meet at eight-fifteen that evening.
 the men in here.”
 
 In two or three minutes there was another knock, and Mr. Hubbard himself, the
-celebrated frame-maker of South Audley Street, came in with a somewhat
+celebrated frame-maker of South Audley Street{% include essay/feature/aside.html aside-type="location" text="South Audley Street is a major shopping street in Mayfair, London." objectid="dor046" %}, came in with a somewhat
 rough-looking young assistant. Mr. Hubbard was a florid, red-whiskered little
 man, whose admiration for art was considerably tempered by the inveterate
 impecuniosity of most of the artists who dealt with him. As a rule, he never
@@ -114,7 +114,7 @@ charmed everybody. It was a pleasure even to see him.
 “What can I do for you, Mr. Gray?” he said, rubbing his fat
 freckled hands. “I thought I would do myself the honour of coming round
 in person. I have just got a beauty of a frame, sir. Picked it up at a sale.
-Old Florentine. Came from Fonthill, I believe. Admirably suited for a religious
+Old Florentine. Came from Fonthill,{% include essay/feature/aside.html aside-type="location" text="Fonthill Abbey was a Gothic Revival country house in Wiltshire, England conceived of by William Beckford. Beckford was also a writer and wrote the Gothic novel, Vathek. Notably, Beckford was bisexual and his life was marred by scandal related to his sexuality." objectid="dor046" %} I believe. Admirably suited for a religious
 subject, Mr. Gray.”
 
 “I am so sorry you have given yourself the trouble of coming round, Mr.
@@ -249,7 +249,7 @@ following paragraph:
 INQUEST ON AN ACTRESS.—An inquest was held
 this morning at the Bell Tavern, Hoxton Road, by Mr. Danby, the District
 Coroner, on the body of Sibyl Vane, a young actress recently engaged at the
-Royal Theatre, Holborn. A verdict of death by misadventure was returned.
+Royal Theatre, Holborn.{% include essay/feature/aside.html aside-type="location" text="The Holborn Theatre was a theatre in Holborn, London. It was known by several other names including the Royal Theatre and Newsome's Circus." objectid="dor046" %} A verdict of death by misadventure was returned.
 Considerable sympathy was expressed for the mother of the deceased, who was
 greatly affected during the giving of her own evidence, and that of Dr.
 Birrell, who had made the post-mortem examination of the deceased.
