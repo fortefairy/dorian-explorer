@@ -7,7 +7,7 @@ gallery: true
 Check if there's only one actual essay (excluding README)
 Essays have both title and order in front matter
 {%- endcomment -%}
-{%- assign actual_essays = site.essay | where_exp: "item", "item.title and item.order" -%}
+{%- assign actual_essays = site.essay | where_exp: "item", "item.title" | where_exp: "item", "item.order" -%}
 {%- assign essay_count = actual_essays.size -%}
 
 {%- if essay_count == 1 -%}

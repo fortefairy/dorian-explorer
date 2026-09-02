@@ -89,6 +89,8 @@ Mrs. Vane fixed her eyes on him and intensified her smile. She mentally
 elevated her son to the dignity of an audience. She felt sure that the
 *tableau* was interesting.
 
+{% include essay/new-section.html %} 
+
 “You might keep some of your kisses for me, Sibyl, I think,” said
 the lad with a good-natured grumble.
 
@@ -206,8 +208,10 @@ search of an imaginary gallery.
 “Come, Sibyl,” said her brother impatiently. He hated his
 mother’s affectations.
 
+{% include essay/new-section.html %} 
+
 They went out into the flickering, wind-blown sunlight and strolled down the
-dreary Euston Road. The passersby glanced in wonder at the sullen heavy youth
+dreary Euston Road. {% include essay/feature/aside.html aside-type="location" text="Euston Road is a road in Central London. During the 18th and 19th Century, there were neighborhoods along it that were predominantly working class." objectid="dor031" %}The passersby glanced in wonder at the sullen heavy youth
 who, in coarse, ill-fitting clothes, was in the company of such a graceful,
 refined-looking girl. He was like a common gardener walking with a rose.
 
@@ -218,7 +222,7 @@ of the effect she was producing. Her love was trembling in laughter on her
 lips. She was thinking of Prince Charming, and, that she might think of him all
 the more, she did not talk of him, but prattled on about the ship in which Jim
 was going to sail, about the gold he was certain to find, about the wonderful
-heiress whose life he was to save from the wicked, red-shirted bushrangers. For
+heiress whose life he was to save from the wicked, red-shirted bushrangers. {% include essay/feature/aside.html aside-type="connection" text="Bushrangers were robbers and outlaws in the Australian Bush."%}For
 he was not to remain a sailor, or a supercargo, or whatever he was going to be.
 Oh, no! A sailor’s existence was dreadful. Fancy being cooped up in a
 horrid ship, with the hoarse, hump-backed waves trying to get in, and a black
@@ -262,6 +266,8 @@ the stage-door, had set loose a train of horrible thoughts. He remembered it as
 if it had been the lash of a hunting-crop across his face. His brows knit
 together into a wedge-like furrow, and with a twitch of pain he bit his
 underlip.
+
+{% include essay/new-section.html %} 
 
 “You are not listening to a word I am saying, Jim,” cried Sibyl,
 “and I am making the most delightful plans for your future. Do say
@@ -326,6 +332,9 @@ been hard for us both, terribly hard and difficult. But it will be different
 now. You are going to a new world, and I have found one. Here are two chairs;
 let us sit down and see the smart people go by.”
 
+{% include essay/new-section.html %} 
+
+
 They took their seats amidst a crowd of watchers. The tulip-beds across the
 road flamed like throbbing rings of fire. A white dust—tremulous cloud of
 orris-root it seemed—hung in the panting air. The brightly coloured
@@ -361,7 +370,7 @@ dagger. The people round began to gape. A lady standing close to her tittered.
 “Come away, Jim; come away,” she whispered. He followed her
 doggedly as she passed through the crowd. He felt glad at what he had said.
 
-When they reached the Achilles Statue, she turned round. There was pity in her
+When they reached the Achilles Statue,{% include essay/feature/aside.html aside-type="location" text="The Wellington Monument in Hyde Park, London, depicts the warrior Achilles. Achilles was a hero in Greek Mythology, most notably in Homer's The Iliad. Blessed by the gods, he had only one weakness, his heel. In English, the term 'Achilles heel' refers to a vulnerability or weakness. Wilde may be alluding to this here or to the suspected homosexual romance between Achilles and his childhood companion, Patroclus." objectid="dor032" %} she turned round. There was pity in her
 eyes that became laughter on her lips. She shook her head at him. “You
 are foolish, Jim, utterly foolish; a bad-tempered boy, that is all. How can you
 say such horrible things? You don’t know what you are talking about. You
@@ -392,7 +401,9 @@ you?”
 She shrank from him. Then she laughed and put her hand on his arm. He was
 merely a boy.
 
-At the Marble Arch they hailed an omnibus, which left them close to their
+{% include essay/new-section.html %} 
+
+At the Marble Arch they hailed an omnibus{% include essay/feature/aside.html aside-type="location" text="The Marble Arch was the state entrance of Buckingham Palace until 1851, when it was moved to the Northeast corner of Hyde Park." objectid="dor033" %}, which left them close to their
 shabby home in the Euston Road. It was after five o’clock, and Sibyl had
 to lie down for a couple of hours before acting. Jim insisted that she should
 do so. He said that he would sooner part with her when their mother was not
