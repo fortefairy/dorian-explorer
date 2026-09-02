@@ -29,7 +29,7 @@ old-fashioned people and did not realize that we live in an age when
 unnecessary things are our only necessities; and there were several very
 courteously worded communications from Jermyn Street money-lenders offering to
 advance any sum of money at a moment’s notice and at the most reasonable
-rates of interest.
+rates of interest.{% include essay/feature/aside.html aside-type="location" text="Jermyn Street is a Street in Westminster, London known for selling gentleman's clothing." objectid="dor042" %}
 
 After about ten minutes he got up, and throwing on an elaborate dressing-gown
 of silk-embroidered cashmere wool, passed into the onyx-paved bathroom. The
@@ -105,6 +105,16 @@ conscience to others, and the fear of God to us all. There were opiates for
 remorse, drugs that could lull the moral sense to sleep. But here was a visible
 symbol of the degradation of sin. Here was an ever-present sign of the ruin men
 brought upon their souls.
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="But here was a visible
+symbol of the degradation of sin. Here was an ever-present sign of the ruin men
+brought upon their souls."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 Three o’clock struck, and four, and the half-hour rang its double chime,
 but Dorian Gray did not stir. He was trying to gather up the scarlet threads of
@@ -183,6 +193,8 @@ Lord Henry walked across the room, and sitting down by Dorian Gray, took both
 his hands in his own and held them tightly. “Dorian,” he said,
 “my letter—don’t be frightened—was to tell you that
 Sibyl Vane is dead.”
+
+{% include essay/new-section.html %} 
 
 A cry of pain broke from the lad’s lips, and he leaped to his feet,
 tearing his hands away from Lord Henry’s grasp. “Dead! Sibyl dead!
@@ -309,6 +321,16 @@ I meet them, they go in at once for reminiscences. That awful memory of woman!
 What a fearful thing it is! And what an utter intellectual stagnation it
 reveals! One should absorb the colour of life, but one should never remember
 its details. Details are always vulgar.”
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="Suddenly we find
+that we are no longer the actors, but the spectators of the play. Or rather we
+are both. We watch ourselves, and the mere wonder of the spectacle enthralls
+us."
+   speaker="Lord Henry Wotton" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 “I must sow poppies in my garden,” sighed Dorian.
 
@@ -376,7 +398,7 @@ his face in his hands.
 “No, she will never come to life. She has played her last part. But you
 must think of that lonely death in the tawdry dressing-room simply as a strange
 lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster,
-or Ford, or Cyril Tourneur. The girl never really lived, and so she has never
+or Ford, or Cyril Tourneur.{% include essay/feature/aside.html aside-type="allusion" text="Plays from the Jacobean era (1603–1625) were notoriously dark and violent, covering themes such as human selfishness and the nature of evil. They were also known to be sensationalist and melodramatic. <a href='/items/dor043.html'>John Webster </a>, <a href='/items/dor044.html'>John Ford </a>, and <a href='/items/dor045.html'>Cyril Tourneur</a> were all playwrights during this time." %} The girl never really lived, and so she has never
 really died. To you at least she was always a dream, a phantom that flitted
 through Shakespeare’s plays and left them lovelier for its presence, a
 reed through which Shakespeare’s music sounded richer and more full of
@@ -389,6 +411,8 @@ real than they are.”
 There was a silence. The evening darkened in the room. Noiselessly, and with
 silver feet, the shadows crept in from the garden. The colours faded wearily
 out of things.
+
+{% include essay/new-section.html %} 
 
 After some time Dorian Gray looked up. “You have explained me to myself,
 Harry,” he murmured with something of a sigh of relief. “I felt all

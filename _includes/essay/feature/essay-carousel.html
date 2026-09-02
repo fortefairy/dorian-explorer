@@ -6,11 +6,11 @@
 
     E.G. --> {% include essay/feature/essay-carousel.html objectid="dor001;dor002;dor003" %}
     E.G. --> {% include essay/feature/essay-carousel.html title="Sample Items" height=450 %}
-    E.G. --> {% include essay/feature/essay-carousel.html id="carousel2" objectid="dor004;dor005" %}
+    E.G. --> {% include essay/feature/essay-carousel.html carouselnum="carousel2" objectid="dor004;dor005" %}
 
     Options:
 
-    - "id" = unique HTML id for this carousel instance. Required when using more than one carousel on the same page. (optional, default "imageCarousel")
+    - "carouselnum" = unique HTML id for this carousel instance. Required when using more than one carousel on the same page. (optional, default "imageCarousel")
     - "objectid" = one or more objectids from the collection, separated by semicolons, e.g. "dor001" or "dor001;dor002;dor003". Items must have image_small or image_thumb. When provided, shows items in the given order and ignores filter-field/filter-value. (optional)
     - "height" = the height of the carousel in px, just give the number (optional, default 300)
     - "carousel-type" = the selection of items featured in the carousel, choose from thumb (all items with image_thumb) or small (all items with image_small). (optional, default thumb)
@@ -25,7 +25,7 @@
 
 {%- endcomment -%}
 
-{%- assign carousel-id = include.id | default: "imageCarousel" -%}
+{%- assign carousel-id = include.carouselnum | default: "imageCarousel" -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
 {%- if include.objectid -%}

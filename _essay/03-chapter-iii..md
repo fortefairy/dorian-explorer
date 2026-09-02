@@ -428,7 +428,7 @@ listeners out of themselves, and they followed his pipe, laughing. Dorian Gray
 never took his gaze off him, but sat like one under a spell, smiles chasing
 each other over his lips and wonder growing grave in his darkening eyes.
 
-{% include essay/feature/essay-carousel.html id="carousel2" objectid="dor016;dor017" %}
+{% include essay/feature/essay-carousel.html carouselnum="carousel2" objectid="dor016;dor017" %}
 
 At last, liveried in the costume of the age, reality entered the room in the
 shape of a servant to tell the duchess that her carriage was waiting. She wrung

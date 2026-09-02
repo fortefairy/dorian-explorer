@@ -53,6 +53,8 @@ here is the orchestra. It is quite dreadful, but it only lasts for about five
 minutes. Then the curtain rises, and you will see the girl to whom I am going
 to give all my life, to whom I have given everything that is good in me.”
 
+{% include essay/new-section.html %} 
+
 A quarter of an hour afterwards, amidst an extraordinary turmoil of applause,
 Sibyl Vane stepped on to the stage. Yes, she was certainly lovely to look
 at—one of the loveliest creatures, Lord Henry thought, that he had ever
@@ -81,7 +83,7 @@ Good pilgrim, you do wrong your hand too much,
 
 For saints have hands that pilgrims’ hands do touch,  
 
-    And palm to palm is holy palmers’ kiss—
+    And palm to palm is holy palmers’ kiss—{% include essay/feature/aside.html aside-type="allusion" text="While Wilde makes many allusions to Shakespeare's works, Romeo and Juliet is the only one that we see performed in the novel." objectid="dor037" %}
 
 with the brief dialogue that follows, were spoken in a thoroughly artificial
 manner. The voice was exquisite, but from the point of view of tone it was
@@ -138,6 +140,8 @@ When the second act was over, there came a storm of hisses, and Lord Henry got
 up from his chair and put on his coat. “She is quite beautiful,
 Dorian,” he said, “but she can’t act. Let us go.”
 
+{% include essay/new-section.html %} 
+
 “I am going to see the play through,” answered the lad, in a hard
 bitter voice. “I am awfully sorry that I have made you waste an evening,
 Harry. I apologize to you both.”
@@ -180,6 +184,8 @@ went out, tramping in heavy boots and laughing. The whole thing was a
 *fiasco*. The last act was played to almost empty benches. The curtain
 went down on a titter and some groans.
 
+{% include essay/new-section.html %} 
+
 As soon as it was over, Dorian Gray rushed behind the scenes into the
 greenroom. The girl was standing there alone, with a look of triumph on her
 face. Her eyes were lit with an exquisite fire. There was a radiance about her.
@@ -212,7 +218,7 @@ happiness dominated her.
 “Dorian, Dorian,” she cried, “before I knew you, acting was
 the one reality of my life. It was only in the theatre that I lived. I thought
 that it was all true. I was Rosalind one night and Portia the other. The joy of
-Beatrice was my joy, and the sorrows of Cordelia were mine also. I believed in
+Beatrice was my joy, and the sorrows of Cordelia were mine also.{% include essay/feature/aside.html aside-type="allusion" text="Several Shakespearean heroines are referenced again here. First <a href='/items/dor027.html'>Rosalind </a> from As You Like It, then <a href='/items/dor027.html'>Portia </a> from Merchant of Venice, <a href='/items/dor028.html'>Beatrice</a> from Much Ado About Nothing, and <a href='/items/dor027.html'>Cordelia</a> from King Lear." %}  I believed in
 everything. The common people who acted with me seemed to me to be godlike. The
 painted scenes were my world. I knew nothing but shadows, and I thought them
 real. You came—oh, my beautiful love!—and you freed my soul from
@@ -236,8 +242,12 @@ feel, but I cannot mimic one that burns me like fire. Oh, Dorian, Dorian, you
 understand now what it signifies? Even if I could do it, it would be
 profanation for me to play at being in love. You have made me see that.”
 
+{% include essay/feature/essay-carousel.html id="carousel4" objectid="dor027;dor038;dor039;dor040" %}
+
 He flung himself down on the sofa and turned away his face. “You have
 killed my love,” he muttered.
+
+{% include essay/new-section.html %} 
 
 She looked at him in wonder and laughed. He made no answer. She came across to
 him, and with her little fingers stroked his hair. She knelt down and pressed
@@ -298,6 +308,8 @@ She wept silently, and made no answer, but crept nearer. Her little hands
 stretched blindly out, and appeared to be seeking for him. He turned on his
 heel and left the room. In a few moments he was out of the theatre.
 
+{% include essay/new-section.html %} 
+
 Where he went to he hardly knew. He remembered wandering through dimly lit
 streets, past gaunt, black-shadowed archways and evil-looking houses. Women
 with hoarse voices and harsh laughter had called after him. Drunkards had
@@ -305,7 +317,7 @@ reeled by, cursing and chattering to themselves like monstrous apes. He had
 seen grotesque children huddled upon door-steps, and heard shrieks and oaths
 from gloomy courts.
 
-As the dawn was just breaking, he found himself close to Covent Garden. The
+As the dawn was just breaking, he found himself close to Covent Garden.{% include essay/feature/aside.html aside-type="location" text="Covent Garden is a district in London that was known for its fruit and vegetable markets. In the 18th century, Covent Gardens had also become known as a red light district." objectid="dor041" %} The
 darkness lifted, and, flushed with faint fires, the sky hollowed itself into a
 perfect pearl. Huge carts filled with nodding lilies rumbled slowly down the
 polished empty street. The air was heavy with the perfume of the flowers, and
@@ -346,6 +358,8 @@ went over to the picture, and examined it. In the dim arrested light that
 struggled through the cream-coloured silk blinds, the face appeared to him to
 be a little changed. The expression looked different. One would have said that
 there was a touch of cruelty in the mouth. It was certainly strange.
+
+{% include essay/new-section.html %} 
 
 He turned round and, walking to the window, drew up the blind. The bright dawn
 flooded the room and swept the fantastic shadows into dusky corners, where they

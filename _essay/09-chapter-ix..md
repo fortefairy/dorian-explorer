@@ -109,11 +109,7 @@ absolutely nothing to do, almost died of *ennui*, and became a confirmed
 misanthrope. And besides, my dear old Basil, if you really want to console me,
 teach me rather to forget what has happened, or to see it from a proper
 artistic point of view. Was it not Gautier who used to write about *la
-<<<<<<< HEAD
-consolation des arts*?{% include essay/feature/aside.html aside-type="allusion" text="Guatier was a French art and literary critic. The phrase, 'la consolation des arts' can be translated to 'the consolation of the arts'. Dorian is using art here as a justification for suffering." objectid="dor046" %} I remember picking up a little vellum-covered book in
-=======
-consolation des arts*? I remember picking up a little vellum-covered book in
->>>>>>> parent of 2522518 (annotated up to chapter 9)
+consolation des arts*? {% include essay/feature/aside.html aside-type="allusion" text="Guatier was a French art and literary critic. The phrase, 'la consolation des arts' can be translated to 'the consolation of the arts'. Dorian is using art here as a justification for suffering." objectid="dor046" %}I remember picking up a little vellum-covered book in
 your studio one day and chancing on that delightful phrase. Well, I am not like
 that young man you told me of when we were down at Marlow together, the young
 man who used to say that yellow satin could console one for all the miseries of
@@ -130,6 +126,8 @@ am very fond of Harry. But I know that you are better than he is. You are not
 stronger—you are too much afraid of life—but you are better. And
 how happy we used to be together! Don’t leave me, Basil, and don’t
 quarrel with me. I am what I am. There is nothing more to be said.”
+
+{% include essay/new-section.html %} 
 
 The painter felt strangely moved. The lad was infinitely dear to him, and his
 personality had been the great turning point in his art. He could not bear the
@@ -218,6 +216,8 @@ a month. I should think you could easily spare it for that time. In fact, you
 are sure to be out of town. And if you keep it always behind a screen, you
 can’t care much about it.”
 
+{% include essay/new-section.html %} 
+
 Dorian Gray passed his hand over his forehead. There were beads of perspiration
 there. He felt that he was on the brink of a horrible danger. “You told
 me a month ago that you would never exhibit it,” he cried. “Why
@@ -274,11 +274,7 @@ and as Adonis with huntsman’s cloak and polished boar-spear. Crowned with
 heavy lotus-blossoms you had sat on the prow of Adrian’s barge, gazing
 across the green turbid Nile. You had leaned over the still pool of some Greek
 woodland and seen in the water’s silent silver the marvel of your own
-<<<<<<< HEAD
-face.{% include essay/feature/aside.html aside-type="allusion" text="Basil references three figures from Greek Mythology. First, <a href='/items/dor047.html'>Paris </a>, the Prince of Troy whose elopement with Helen sparked the Trojan War. He then references <a href='/items/dor048.html'>Adonis, </a> a mortal lover of Aphrodite and <a href='/items/dor003.html'>Narcissus</a>, the beautiful man who fell in love with his reflection." %} And it had all been what art should be—unconscious, ideal, and
-=======
-face. And it had all been what art should be—unconscious, ideal, and
->>>>>>> parent of 2522518 (annotated up to chapter 9)
+face. {% include essay/feature/aside.html aside-type="allusion" text="Basil references three figures from Greek Mythology. First, <a href='/items/dor047.html'>Paris </a>, the Prince of Troy whose elopement with Helen sparked the Trojan War. He then references <a href='/items/dor048.html'>Adonis, </a> a mortal lover of Aphrodite and <a href='/items/dor003.html'>Narcissus</a>, the beautiful man who fell in love with his reflection." %}And it had all been what art should be—unconscious, ideal, and
 remote. One day, a fatal day I sometimes think, I determined to paint a
 wonderful portrait of you as you actually are, not in the costume of dead ages,
 but in your own dress and in your own time. Whether it was the realism of the
@@ -303,6 +299,10 @@ Paris, I determined to make your portrait the principal thing in my exhibition.
 It never occurred to me that you would refuse. I see now that you were right.
 The picture cannot be shown. You must not be angry with me, Dorian, for what I
 have told you. As I said to Harry, once, you are made to be worshipped.”
+
+{% include essay/feature/essay-carousel.html id="carousel4" objectid="dor003;dor047;dor048" %}
+
+{% include essay/new-section.html %} 
 
 Dorian Gray drew a long breath. The colour came back to his cheeks, and a smile
 played about his lips. The peril was over. He was safe for the time. Yet he
@@ -368,6 +368,15 @@ two ideal things. Few come across one.”
 “I can’t explain it to you, Basil, but I must never sit to you
 again. There is something fatal about a portrait. It has a life of its own. I
 will come and have tea with you. That will be just as pleasant.”
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="There is something fatal about a portrait. It has a life of its own."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
+
 
 “Pleasanter for you, I am afraid,” murmured Hallward regretfully.
 “And now good-bye. I am sorry you won’t let me look at the picture
