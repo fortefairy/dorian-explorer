@@ -628,7 +628,7 @@ for red blood, as other men have for red wine—the son of the Fiend, as
 was reported, and one who had cheated his father at dice when gambling with him
 for his own soul; Giambattista Cibo, who in mockery took the name of Innocent
 and into whose torpid veins the blood of three lads was infused by a Jewish
-doctor;{% include essay/feature/aside.html aside-type="allusion" text="<a href='items/dor122.html'>Ezzelino</a> was a real Italian feudal lord who was written about in Dante's Inferno. <a href='items/dor122.html'>Pope Innocent VIII</a> is another 'bad pope' that Wilde references who had ties to the occult. Oscar Wilde wrote about his fascination with 'bad popes' in his essay, <a href='items/dor123.html'>The Soul of Man Under Socialism.</a>"%} Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose
+doctor;{% include essay/feature/aside.html aside-type="allusion" text="<a href='items/dor114.html'>Ezzelino</a> was a real Italian feudal lord who was written about in Dante's Inferno. <a href='items/dor115.html'>Pope Innocent VIII</a> is another 'bad pope' that Wilde references who had ties to the occult. Oscar Wilde wrote about his fascination with 'bad popes' in his essay, <a href='items/dor123.html'>The Soul of Man Under Socialism.</a>"%} Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose
 effigy was burned at Rome as the enemy of God and man, who strangled Polyssena
 with a napkin, and gave poison to Ginevra d’Este in a cup of emerald, and
 in honour of a shameful passion built a pagan church for Christian worship;
@@ -639,7 +639,9 @@ the images of love and death and madness; and, in his trimmed jerkin and
 jewelled cap and acanthuslike curls, Grifonetto Baglioni, who slew Astorre with
 his bride, and Simonetto with his page, and whose comeliness was such that, as
 he lay dying in the yellow piazza of Perugia, those who had hated him could not
-choose but weep, and Atalanta, who had cursed him, blessed him.{% include essay/feature/aside.html aside-type="allusion" text="There are three more stories referenced here. Sigismondo Malatesta was an Italian nobleman who, allegedly killed his first and second wives, <a href='/items/dor116d'>Ginevra d’Este</a> and <a href='/items/dor116c'>Polissena Sforza</a>. <a href='/items/dor116b'>Isotta degli Atti</a> was his final wife. <a href='/items/dor117'>Charles IV</a> was a French king who suffered from psychosis. The final few sentences describe the <a href='/items/dor118.html'>Red Wedding of the Baglioni</a>, which inspired the Red Wedding from Game of Thrones."%} 
+choose but weep, and Atalanta, who had cursed him, blessed him.{% include essay/feature/aside.html aside-type="allusion" text="There are three more stories referenced here. <a href='/items/dor116a'>Sigismondo Malatesta</a> was an Italian nobleman who, allegedly killed his first and second wives, <a href='/items/dor116d'>Ginevra d’Este</a> and <a href='/items/dor116c'>Polissena Sforza</a>. <a href='/items/dor116b'>Isotta degli Atti</a> was his final wife. <a href='/items/dor117'>Charles IV</a> was a French king who suffered from psychosis. The final few sentences describe the <a href='/items/dor118.html'>Red Wedding of the Baglioni</a>, which inspired the Red Wedding from Game of Thrones."%} 
+
+{% include essay/feature/essay-carousel.html carouselnum="carousel12" objectid="dor0108;dor109;dor110;dor111;dor112;dor113;dor121;dor122;dor114;dor115;dor116a;dor116b;dor116c;dor117;dor118" %}
 
 There was a horrible fascination in them all. He saw them at night, and they
 troubled his imagination in the day. The Renaissance knew of strange manners of
