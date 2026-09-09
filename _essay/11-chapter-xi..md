@@ -355,7 +355,7 @@ studded with jacinths, a collar of gold roses set with turquoise-stones, and a
 skull-cap *parsemé* with pearls. Henry II. wore jewelled gloves reaching
 to the elbow, and had a hawk-glove sewn with twelve rubies and fifty-two great
 orients. The ducal hat of Charles the Rash, the last Duke of Burgundy of his
-race, was hung with pear-shaped pearls and studded with sapphires.{% include essay/feature/aside.html text="Wilde discusses multiple members of the nobility in this paragraph, first, <a href='/items/dor085a.html'>Cesare Borgia</a>, the illegitimate son of <a href='/items/dor085b.html'>Pope Alexander VI</a> and inspiration for Machiavelli's 'The Prince,' then Louis XII, the king of France. He also mentions <a href='/items/dor086.html'>Charles I</a>, <a href='/items/dor087.html'>Richard II</a>, <a href='/items/dor088.html'>Henry VIII</a>, <a href='/items/dor089.html'>James I</a>, <a href='/items/dor119.html'>Edward II</a>, and <a href='/items/dor090.html'>Henry II</a>, all kings of England. Finally, he references <a href='/items/dor091.html'>Piers Gaveston</a>, the first Earl of Cornwall, and <a href='/items/dor092.html'>Charles the Rash</a>, the Duke of Burgundy. Several of these figures, including Cesare Borgiaa, Charles I, Richard II, James I, Edward II, Piers Gaveston, and Henry II, were rumored to have had homosexual relationships. The note about Edward II giving a suite to Piers Gaveston is notable as the two were rumored to be lovers." %}
+race, was hung with pear-shaped pearls and studded with sapphires.{% include essay/feature/aside.html text="Wilde discusses multiple members of the nobility in this paragraph, first, <a href='/items/dor085a.html'>Cesare Borgia</a>, the illegitimate son of <a href='/items/dor085b.html'>Pope Alexander VI</a> and inspiration for Machiavelli's 'The Prince,' then Louis XII, the king of France. He also mentions <a href='/items/dor086.html'>Charles I</a>, <a href='/items/dor087.html'>Richard II</a>, <a href='/items/dor088.html'>Henry VIII</a>, <a href='/items/dor089.html'>James I</a>, <a href='/items/dor119.html'>Edward II</a>, and <a href='/items/dor090.html'>Henry II</a>, all kings of England. Finally, he references <a href='/items/dor091.html'>Piers Gaveston</a>, the first Earl of Cornwall, and <a href='/items/dor092.html'>Charles the Rash</a>, the Duke of Burgundy. Several of these figures, including Cesare Borgiaa=, Charles I, Richard II, James I, Edward II, Piers Gaveston, and Henry II, were rumored to have had homosexual relationships. The note about Edward II giving a suite to Piers Gaveston is notable as the two were rumored to be lovers." %}
 
 How exquisite life had once been! How gorgeous in its pomp and decoration! Even
 to read of the luxury of the dead was wonderful.
@@ -548,7 +548,7 @@ Hallward’s studio, to the mad prayer that had so changed his life? Here,
 in gold-embroidered red doublet, jewelled surcoat, and gilt-edged ruff and
 wristbands, stood Sir Anthony Sherard, with his silver-and-black armour piled
 at his feet. What had this man’s legacy been? Had the lover of Giovanna
-of Naples bequeathed him some inheritance of sin and shame?{% include essay/feature/aside.html aside-type="allusion" text="Sir Anthony Sherard likely doesn't exist, but Giovanna." %} Were his own
+of Naples bequeathed him some inheritance of sin and shame?{% include essay/feature/aside.html aside-type="allusion" text="Sir Anthony Sherard likely doesn't exist, but Giovanna of Naples was a fourtheenth century queen of Naples who was accused of murdering her first husband." objectid="dor101"%} Were his own
 actions merely the dreams that the dead man had not dared to realize? Here,
 from the fading canvas, smiled Lady Elizabeth Devereux, in her gauze hood,
 pearl stomacher, and pink slashed sleeves. A flower was in her right hand, and
@@ -565,7 +565,7 @@ in his youth, of Lord Ferrars. What of the second Lord Beckenham, the companion
 of the Prince Regent in his wildest days, and one of the witnesses at the
 secret marriage with Mrs. Fitzherbert? How proud and handsome he was, with his
 chestnut curls and insolent pose! What passions had he bequeathed? The world
-had looked upon him as infamous. He had led the orgies at Carlton House. The
+had looked upon him as infamous. He had led the orgies at Carlton House.{% include essay/feature/aside.html aside-type="allusion" text="Carlton House was the residence of Goerge IV, who was mentioned earlier and rumored to have been homosexual. The house was known for its extravagant parties." objectid="dor102"%} The
 star of the Garter glittered upon his breast. Beside him hung the portrait of
 his wife, a pallid, thin-lipped woman in black. Her blood, also, stirred within
 him. How curious it all seemed! And his mother with her Lady Hamilton face and
@@ -591,7 +591,7 @@ The hero of the wonderful novel that had so influenced his life had himself
 known this curious fancy. In the seventh chapter he tells how, crowned with
 laurel, lest lightning might strike him, he had sat, as Tiberius, in a garden
 at Capri, reading the shameful books of Elephantis, while dwarfs and peacocks
-strutted round him and the flute-player mocked the swinger of the censer; and,
+strutted round him and the flute-player mocked the swinger of the censer;{% include essay/feature/aside.html aside-type="allusion" text="The emperor <a href='/items/dor103.html'>Tiberius</a> lived in Capri in self-imposed exile during his final years. It is believed he engaged in sexually perverse and immoral activities there. <a href='/items/dor104.html'>Elephantis</a> was a poet known for writing an erotic manual."%} and,
 as Caligula, had caroused with the green-shirted jockeys in their stables and
 supped in an ivory manger with a jewel-frontleted horse; and, as Domitian, had
 wandered through a corridor lined with marble mirrors, looking round with
@@ -602,8 +602,11 @@ shambles of the circus and then, in a litter of pearl and purple drawn by
 silver-shod mules, been carried through the Street of Pomegranates to a House
 of Gold and heard men cry on Nero Caesar as he passed by; and, as Elagabalus,
 had painted his face with colours, and plied the distaff among the women, and
-brought the Moon from Carthage and given her in mystic marriage to the Sun.
+brought the Moon from Carthage and given her in mystic marriage to the Sun.{% include essay/feature/aside.html aside-type="allusion" text="Wilde mentions three additional Roman Emperors, <a href='/items/dor105.html'>Caligula</a> and <a href='/items/dor120.html'>Elagabulus</a>, both of whom were known for their sexual promiscuity and <a href='/items/dor106.html'>Domitian</a> known for his censorship and desire to control and enforce morality. Caligula, in particular, is depicted as exceedingly cruel and violent."%} 
 
+{% include essay/feature/essay-carousel.html carouselnum="carousel12" objectid="dor0103;dor104;dor105;dor120;dor106" %}
+
+{% include essay/new-section.html %}
 Over and over again Dorian used to read this fantastic chapter, and the two
 chapters immediately following, in which, as in some curious tapestries or
 cunningly wrought enamels, were pictured the awful and beautiful forms of those
@@ -614,18 +617,18 @@ Venetian, known as Paul the Second, who sought in his vanity to assume the
 title of Formosus, and whose tiara, valued at two hundred thousand florins, was
 bought at the price of a terrible sin; Gian Maria Visconti, who used hounds to
 chase living men and whose murdered body was covered with roses by a harlot who
-had loved him; the Borgia on his white horse, with Fratricide riding beside him
+had loved him;{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor108.html'>Filippo Maria Visconti</a> and <a href='/items/dor110.html'>Gian Maria Visconti</a> were brothers, both of whom were known to be cruel and violent. <a href='/items/dor109.html'>Pope Paul II</a> was known to hold particularly lavish ceremonies and was believed to be corrupt."%}  the Borgia on his white horse, with Fratricide riding beside him
 and his mantle stained with the blood of Perotto; Pietro Riario, the young
 Cardinal Archbishop of Florence, child and minion of Sixtus IV., whose beauty
 was equalled only by his debauchery, and who received Leonora of Aragon in a
 pavilion of white and crimson silk, filled with nymphs and centaurs, and gilded
-a boy that he might serve at the feast as Ganymede or Hylas; Ezzelin, whose
+a boy that he might serve at the feast as Ganymede or Hylas;{% include essay/feature/aside.html aside-type="allusion" text="Wilde alludes to several controversial figures within the Catholic Church here. First, he references the Borgia family again, specifically Cesare Borgia who murdered his sister <a href='/items/dor085c.html'>Lucrezia's</a> lover, Perotto. Next he describes <a href='/items/dor111.html'>Pietro Riario,</a> and his father, <a href='/items/dor112.html'>Pope Sixtus IV</a>, who were both viewed as corrupt and held a banquet for <a href='items/dor113.html'>Leonora of Aragon</a>. Finally, <a href='items/dor121.html'>Ganymede</a> and <a href='items/dor122.html'>Hylas</a> were both young male figures within Greek Mythology known for their beauty. Ganymede was the companion to Zeus and Hylas the companion to Heracles"%} Ezzelin, whose
 melancholy could be cured only by the spectacle of death, and who had a passion
 for red blood, as other men have for red wine—the son of the Fiend, as
 was reported, and one who had cheated his father at dice when gambling with him
 for his own soul; Giambattista Cibo, who in mockery took the name of Innocent
 and into whose torpid veins the blood of three lads was infused by a Jewish
-doctor; Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose
+doctor;{% include essay/feature/aside.html aside-type="allusion" text="<a href='items/dor122.html'>Ezzelino</a> was a real Italian feudal lord who was written about in Dante's Inferno. <a href='items/dor122.html'>Pope Innocent VIII</a> is another 'bad pope' that Wilde references who had ties to the occult. Oscar Wilde wrote about his fascination with 'bad popes' in his essay, <a href='items/dor123.html'>The Soul of Man Under Socialism.</a>"%} Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose
 effigy was burned at Rome as the enemy of God and man, who strangled Polyssena
 with a napkin, and gave poison to Ginevra d’Este in a cup of emerald, and
 in honour of a shameful passion built a pagan church for Christian worship;
