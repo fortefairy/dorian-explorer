@@ -54,25 +54,25 @@
     Set up carousel div
 {%- endcomment -%}
 <style>
-    #{{ carousel-id }} .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '300' }}px; }
+    .{{ carousel-id }} .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '300' }}px; }
 </style>
 <div class="card mb-3">
     {% if include.header %}<{{ include.heading_level | default: 'h2' | strip }} class="card-header h5">{{ include.header }}</{{ include.heading_level | default: 'h2' | strip }}>{% endif %}
     <div class="card-body">
         {% if include.title %}<{{ include.heading_level | default: 'h2' | strip }} class="card-title h5">{{ include.title }}</{{ include.heading_level | default: 'h2' | strip }}>{% endif %}
 
-        <div id="{{ carousel-id }}" class="carousel slide bg-dark rounded mb-3" data-bs-ride="carousel">
-            <div id="{{ carousel-id }}Indicators" class="carousel-indicators">
+        <div class="carousel slide bg-dark rounded mb-3 {{ carousel-id }}" data-bs-ride="carousel">
+            <div class="carousel-indicators {{ carousel-id }}-indicators">
 
             </div>
-            <div id="{{ carousel-id }}Inner" class="carousel-inner">
+            <div class="carousel-inner {{ carousel-id }}-inner">
 
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#{{ carousel-id }}" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target=".{{ carousel-id }}" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#{{ carousel-id }}" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target=".{{ carousel-id }}" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -94,8 +94,8 @@
     {% endif %}
 
     /* add items to carousel */
-    var carousel = document.getElementById(carouselId + "Inner");
-    var carouselIndicators = document.getElementById(carouselId + "Indicators");
+    var carousel = document.querySelector('.' + carouselId + '-inner');
+    var carouselIndicators = document.querySelector('.' + carouselId + '-indicators');
     var slides = "";
     var indicators = "";
     var itemImg, itemLink, indicator, slide;
@@ -106,7 +106,7 @@
         } else {
             itemLink = '{{ '/items/' | relative_url }}' + carouselItems[i][1] + '.html';
         }
-        indicator = '<button type="button" data-bs-target="#' + carouselId + '" data-bs-slide-to="' + i + '" ' + (i === 0 ? 'class="active" aria-current="true" ' : '') + 'aria-label="Slide ' + i + '"></button>';
+        indicator = '<button type="button" data-bs-target=".' + carouselId + '" data-bs-slide-to="' + i + '" ' + (i === 0 ? 'class="active" aria-current="true" ' : '') + 'aria-label="Slide ' + i + '"></button>';
         slide = '<div class="carousel-item py-2' + (i === 0 ? ' active' : '') + '">'
             + '<img class="d-block h-100 mx-auto lazyload" alt="' + carouselItems[i][4] + '" data-src="' + itemImg + '">'
             + '<div class="carousel-caption">'
