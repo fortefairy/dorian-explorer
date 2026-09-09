@@ -49,7 +49,7 @@ Besides, I always deal with Dartmoor’s tradesmen, and consequently they
 never bother me. What I want is information: not useful information, of course;
 useless information.”
 
-“Well, I can tell you anything that is in an English Blue Book,{% include essay/feature/aside.html aside-type="connection" text="English Blue Books are a type of diplomatic color book. These typically feature official diplomatic correspondence and other documents"%} Harry,
+“Well, I can tell you anything that is in an English Blue Book,{% include essay/feature/aside.html aside-type="connection" text="English Blue Books are a type of diplomatic book. These typically feature official diplomatic correspondence and other documents"%} Harry,
 although those fellows nowadays write a lot of nonsense. When I was in the
 Diplomatic, things were much better. But I hear they let them in now by
 examination. What can you expect? Examinations, sir, are pure humbug from
