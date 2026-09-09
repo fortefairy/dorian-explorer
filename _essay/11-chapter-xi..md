@@ -639,7 +639,7 @@ the images of love and death and madness; and, in his trimmed jerkin and
 jewelled cap and acanthuslike curls, Grifonetto Baglioni, who slew Astorre with
 his bride, and Simonetto with his page, and whose comeliness was such that, as
 he lay dying in the yellow piazza of Perugia, those who had hated him could not
-choose but weep, and Atalanta, who had cursed him, blessed him.
+choose but weep, and Atalanta, who had cursed him, blessed him.{% include essay/feature/aside.html aside-type="allusion" text="There are three more stories referenced here. Sigismondo Malatesta was an Italian nobleman who, allegedly killed his first and second wives, <a href='/items/dor116d'>Ginevra d’Este</a> and <a href='/items/dor116c'>Polissena Sforza</a>. <a href='/items/dor116b'>Isotta degli Atti</a> was his final wife. <a href='/items/dor117'>Charles IV</a> was a French king who suffered from psychosis. The final few sentences describe the <a href='/items/dor118.html'>Red Wedding of the Baglioni</a>, which inspired the Red Wedding from Game of Thrones."%} 
 
 There was a horrible fascination in them all. He saw them at night, and they
 troubled his imagination in the day. The Renaissance knew of strange manners of
