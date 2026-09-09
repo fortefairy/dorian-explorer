@@ -285,7 +285,7 @@ unwisely called virtue, as much as those natural rebellions that wise men still
 call sin. The style in which it was written was that curious jewelled style,
 vivid and obscure at once, full of *argot* and of archaisms, of technical
 expressions and of elaborate paraphrases, that characterizes the work of some
-of the finest artists of the French school of *Symbolistes*. There were in
+of the finest artists of the French school of *Symbolistes*.{% include essay/feature/aside.html aside-type="allusion" text="Symbolism was a art movement of the late nineteenth century that developed as a reaction to naturalism. Art from this period was heavily laden with symbols. While Wilde wasn't considered a Symbolist himself, he was influenced by the movement." objectid="dor046" %} There were in
 it metaphors as monstrous as orchids and as subtle in colour. The life of the
 senses was described in the terms of mystical philosophy. One hardly knew at
 times whether one was reading the spiritual ecstasies of some mediæval saint

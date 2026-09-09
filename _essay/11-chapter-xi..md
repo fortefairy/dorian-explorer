@@ -64,6 +64,15 @@ first stirred in him, as they sat together in the garden of their friend,
 seemed to increase with gratification. The more he knew, the more he desired to
 know. He had mad hungers that grew more ravenous as he fed them.
 
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="The more he knew, the more he desired to know. He had mad hungers that grew more ravenous as he fed them."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
+
+
 Yet he was not really reckless, at any rate in his relations to society. Once
 or twice every month during the winter, and on each Wednesday evening while the
 season lasted, he would throw open to the world his beautiful house and have
@@ -78,7 +87,7 @@ realization of a type of which they had often dreamed in Eton or Oxford days, a
 type that was to combine something of the real culture of the scholar with all
 the grace and distinction and perfect manner of a citizen of the world. To them
 he seemed to be of the company of those whom Dante describes as having sought
-to “make themselves perfect by the worship of beauty.” Like
+to “make themselves perfect by the worship of beauty.”{% include essay/feature/aside.html aside-type="allusion" text="Wilde references Dante Allegheri, the author of the Divine Comedy. The quotation is actually a misattribution as Dante did not write these words." objectid="dor059" %} Like
 Gautier, he was one for whom “the visible world existed.”
 
 And, certainly, to him life itself was the first, the greatest, of the arts,
@@ -89,7 +98,11 @@ of course, their fascination for him. His mode of dressing, and the particular
 styles that from time to time he affected, had their marked influence on the
 young exquisites of the Mayfair balls and Pall Mall club windows, who copied
 him in everything that he did, and tried to reproduce the accidental charm of
-his graceful, though to him only half-serious, fopperies.
+his graceful, though to him only half-serious, fopperies.{% include essay/feature/aside.html aside-type="location" text="<a href='/items/dor060.html'>Mayfair</a> and <a href='/items/dor061.html'>Pall Mall</a> are two locations in Westminster, London. They were both known for their shopping areas and gentlemen's clubs." %}
+
+{% include essay/feature/essay-carousel.html carouselnum="carousel5" objectid="dor060;dor061" %}
+
+{% include essay/new-section.html %} 
 
 For, while he was but too ready to accept the position that was almost
 immediately offered to him on his coming of age, and found, indeed, a subtle
@@ -99,7 +112,11 @@ yet in his inmost heart he desired to be something more than a mere *arbiter
 elegantiarum*, to be consulted on the wearing of a jewel, or the knotting of
 a necktie, or the conduct of a cane. He sought to elaborate some new scheme of
 life that would have its reasoned philosophy and its ordered principles, and
-find in the spiritualizing of the senses its highest realization.
+find in the spiritualizing of the senses its highest realization.{% include essay/feature/aside.html aside-type="location" text="<a href='/items/dor062.html'>The Satyricon</a> was a famous satirical work of fiction from the early Roman Empire believed to be written by <a href='/items/dor063.html'>Petronius</a>, a courtier of <a href='/items/dor089.html'>Nero</a>" %}
+
+{% include essay/feature/essay-carousel.html carouselnum="carousel6" objectid="dor062;dor063;dor089" %}
+
+{% include essay/new-section.html %} 
 
 The worship of the senses has often, and with much justice, been decried, men
 feeling a natural instinct of terror about passions and sensations that seem
@@ -128,6 +145,8 @@ bitter as they might be. Of the asceticism that deadens the senses, as of the
 vulgar profligacy that dulls them, it was to know nothing. But it was to teach
 man to concentrate himself upon the moments of a life that is itself but a
 moment.
+
+{% include essay/new-section.html %} 
 
 There are few of us who have not sometimes wakened before dawn, either after
 one of those dreamless nights that make us almost enamoured of death, or one of
@@ -182,12 +201,17 @@ or raising aloft the jewelled, lantern-shaped monstrance with that pallid wafer
 that at times, one would fain think, is indeed the “*panis
 cælestis*,” the bread of angels, or, robed in the garments of the
 Passion of Christ, breaking the Host into the chalice and smiting his breast
-for his sins. The fuming censers that the grave boys, in their lace and
+for his sins..{% include essay/feature/aside.html aside-type="connection" text="The explicit reference to Catholicism is interesting here. Years after Dorian Gray was published and after Wilde was released from prison, he'd begun to think about converting to Catholicism, eventually he was Baptised in the church on his deathbed. After his exile, he even took the name of Sebastian, after Saint Sebastian. Many of Wilde's later works utilize religious imagery such as <a href='/items/dor064.html'>panis cælestis</a>, or the ceremonial wafer given at communion and <a href='/items/dor065.html'>the Passion</a>, the narrative of Jesus's life befor his crucifixion." %} The fuming censers that the grave boys, in their lace and
 scarlet, tossed into the air like great gilt flowers had their subtle
 fascination for him. As he passed out, he used to look with wonder at the black
 confessionals and long to sit in the dim shadow of one of them and listen to
 men and women whispering through the worn grating the true story of their
 lives.
+
+{% include essay/feature/essay-carousel.html carouselnum="carousel7" objectid="dor064;dor065" %}
+
+{% include essay/new-section.html %} 
+
 
 But he never fell into the error of arresting his intellectual development by
 any formal acceptance of creed or system, or of mistaking, for a house in which
@@ -196,7 +220,7 @@ hours of a night in which there are no stars and the moon is in travail.
 Mysticism, with its marvellous power of making common things strange to us, and
 the subtle antinomianism that always seems to accompany it, moved him for a
 season; and for a season he inclined to the materialistic doctrines of the
-*Darwinismus* movement in Germany, and found a curious pleasure in tracing
+*Darwinismus* movement in Germany,{% include essay/feature/aside.html aside-type="allusion" text="Darwinism is the theory of biological evolution; however, in this time, Social Darwinism was popular, which had ties to eugenics." objectid="dor066" %} and found a curious pleasure in tracing
 the thoughts and passions of men to some pearly cell in the brain, or some
 white nerve in the body, delighting in the conception of the absolute
 dependence of the spirit on certain physical conditions, morbid or healthy,
@@ -207,7 +231,7 @@ action and experiment. He knew that the senses, no less than the soul, have
 their spiritual mysteries to reveal.
 
 And so he would now study perfumes and the secrets of their manufacture,
-distilling heavily scented oils and burning odorous gums from the East. He saw
+distilling heavily scented oils and burning odorous gums from the East.{% include essay/feature/aside.html aside-type="allusion" text="Many different plants are referred to here along with the potential psychological and physical benefits they may be associated with." %} He saw
 that there was no mood of the mind that had not its counterpart in the sensuous
 life, and set himself to discover their true relations, wondering what there
 was in frankincense that made one mystical, and in ambergris that stirred
@@ -218,6 +242,7 @@ the several influences of sweet-smelling roots and scented, pollen-laden
 flowers; of aromatic balms and of dark and fragrant woods; of spikenard, that
 sickens; of hovenia, that makes men mad; and of aloes, that are said to be able
 to expel melancholy from the soul.
+{% include essay/new-section.html %} 
 
 At another time he devoted himself entirely to music, and in a long latticed
 room, with a vermilion-and-gold ceiling and walls of olive-green lacquer, he
@@ -229,17 +254,16 @@ of reed or brass and charmed—or feigned to charm—great hooded
 snakes and horrible horned adders. The harsh intervals and shrill discords of
 barbaric music stirred him at times when Schubert’s grace, and
 Chopin’s beautiful sorrows, and the mighty harmonies of Beethoven
-himself, fell unheeded on his ear. He collected together from all parts of the
+himself, fell unheeded on his ear.{% include essay/feature/aside.html aside-type="allusion" text="Wilde makes multiple references here. First, he discusses the qualities of music from peoples and places outside of the 'West' such as traditions from Tunisia, Africa, India, and the Roma people. It's also important to note here that Wilde uses quite dated and racist language which was common at the time, including referring to this music as barbaric, even if he technically discusses this music in a positive light, remarking on it being preferable to the likes of <a href='/items/dor068.html'>Chopin</a>, <a href='/items/dor067.html'>Schubert</a>, and <a href='/items/dor069.html'>Beethoven</a>. Dorian is, in effect, exoticizing and othering these cultures and traditions." %} He collected together from all parts of the
 world the strangest instruments that could be found, either in the tombs of
 dead nations or among the few savage tribes that have survived contact with
 Western civilizations, and loved to touch and try them. He had the mysterious
-*juruparis* of the Rio Negro Indians, that women are not allowed to look
+*juruparis*{% include essay/feature/aside.html aside-type="allusion" text="Jurupari is a god of the indigenous peoples of Brazil and Colombia. It also refers to the all male coming of age ritual and the instruments associated with it." %} of the Rio Negro Indians, that women are not allowed to look
 at and that even youths may not see till they have been subjected to fasting
 and scourging, and the earthen jars of the Peruvians that have the shrill cries
 of birds, and flutes of human bones such as Alfonso de Ovalle heard in Chile,
 and the sonorous green jaspers that are found near Cuzco and give forth a note
-of singular sweetness. He had painted gourds filled with pebbles that rattled
-when they were shaken; the long *clarin* of the Mexicans, into which the
+of singular sweetness when they were shaken; the long *clarin* of the Mexicans, into which the
 performer does not blow, but through which he inhales the air; the harsh
 *ture* of the Amazon tribes, that is sounded by the sentinels who sit all
 day long in high trees, and can be heard, it is said, at a distance of three
@@ -249,13 +273,17 @@ juice of plants; the *yotl*-bells of the Aztecs, that are hung in clusters
 like grapes; and a huge cylindrical drum, covered with the skins of great
 serpents, like the one that Bernal Diaz saw when he went with Cortes into the
 Mexican temple, and of whose doleful sound he has left us so vivid a
-description. The fantastic character of these instruments fascinated him, and
+description.{% include essay/feature/aside.html aside-type="allusion" text="Three figures are mentioned here in reference to their accounts of indigenous instruments. <a href='/items/dor072.html'>Alfonso de Ovalle</a> was a Chilean Jesuit priest who wrote about Chilean history and <a href='/items/dor073.html'>Bernal Diaz</a> and <a href='/items/dor074.html'>Hernan Cortes</a> were conquistadors" %} The fantastic character of these instruments fascinated him, and
 he felt a curious delight in the thought that art, like Nature, has her
 monsters, things of bestial shape and with hideous voices. Yet, after some
 time, he wearied of them, and would sit in his box at the opera, either alone
 or with Lord Henry, listening in rapt pleasure to “Tannhauser” and
 seeing in the prelude to that great work of art a presentation of the tragedy
-of his own soul.
+of his own soul.{% include essay/feature/aside.html aside-type="allusion" text="Tannhauser is another opera by Richard Wagner." objectid="dor070" %}
+
+{% include essay/feature/essay-carousel.html carouselnum="carousel8" objectid="dor068;dor067;dor069;dor072;dor073;dor074" %}
+
+{% include essay/new-section.html %} 
 
 On one occasion he took up the study of jewels, and appeared at a costume ball
 as Anne de Joyeuse, Admiral of France, in a dress covered with five hundred and
@@ -278,9 +306,9 @@ the romantic history of Alexander, the Conqueror of Emathia was said to have
 found in the vale of Jordan snakes “with collars of real emeralds growing
 on their backs.” There was a gem in the brain of the dragon, Philostratus
 told us, and “by the exhibition of golden letters and a scarlet
-robe” the monster could be thrown into a magical sleep and slain.
+robe” the monster could be thrown into a magical sleep and slain.{% include essay/feature/aside.html aside-type="allusion" text="The accounts of three men are referenced here, though there is only one direct reference to a specific work, the <a href='/items/dor076.html'>Clericalis Disciplina</a> by Petrus Alphonsi. His other allusions are to <a href='/items/dor077.html'>Alexander the Great</a> and the sophist, <a href='/items/dor078.html'>Philostratus</a>." %}
 According to the great alchemist, Pierre de Boniface, the diamond rendered a
-man invisible, and the agate of India made him eloquent. The cornelian appeased
+man invisible, and the agate of India made him eloquent.{% include essay/feature/aside.html text="Not much is known about Pierre de Boniface, if he was a real person. The 1913 book, The Curious Lore of Precious Stones, does mention this figure as well." %} The cornelian appeased
 anger, and the hyacinth provoked sleep, and the amethyst drove away the fumes
 of wine. The garnet cast out demons, and the hydropicus deprived the moon of
 her colour. The selenite waxed and waned with the moon, and the meloceus, that
@@ -289,18 +317,21 @@ Camillus had seen a white stone taken from the brain of a newly killed toad,
 that was a certain antidote against poison. The bezoar, that was found in the
 heart of the Arabian deer, was a charm that could cure the plague. In the nests
 of Arabian birds was the aspilates, that, according to Democritus, kept the
-wearer from any danger by fire.
+wearer from any danger by fire.{% include essay/feature/aside.html text="Two additional figures are menitoned here, <a href='/items/dor079.html'>Leonardus Camillus</a>, an Italian astronomer and <a href='/items/dor080.html'>Democritus</a>, a Greek philosopher." %}
 
-The King of Ceilan rode through his city with a large ruby in his hand, as the
+{% include essay/feature/essay-carousel.html carouselnum="carousel9" objectid="dor076;dor077;dor078;dor079;dor080" %}
+
+{% include essay/new-section.html %} 
+The King of Ceilan{% include essay/feature/aside.html text="Ceilan, also spelled Ceylon is located in modern day Sri Lanka." %} rode through his city with a large ruby in his hand, as the
 ceremony of his coronation. The gates of the palace of John the Priest were
 “made of sardius, with the horn of the horned snake inwrought, so that no
-man might bring poison within.” Over the gable were “two golden
+man might bring poison within.” {% include essay/feature/aside.html text="John the Priest, or Prestor John, is a mythological Christian patriarch who was said to have ruled over a Christian nation in a predominantly Muslim and pagan area. Some accounts place him in Central Asia while others place him in Ethiopia." objectid="dor081" %} Over the gable were “two golden
 apples, in which were two carbuncles,” so that the gold might shine by
 day and the carbuncles by night. In Lodge’s strange romance ‘A
 Margarite of America’, it was stated that in the chamber of the queen one
 could behold “all the chaste ladies of the world, inchased out of silver,
 looking through fair mirrours of chrysolites, carbuncles, sapphires, and greene
-emeraults.” Marco Polo had seen the inhabitants of Zipangu place
+emeraults.”{% include essay/feature/aside.html text="A Margarite of America is a dark romance written by Thomas Lodge that tells the story of a Peruvian prince and the daughter of the King of Muscovy." objectid="dor082" %} Marco Polo had seen the inhabitants of Zipangu place
 rose-coloured pearls in the mouths of the dead. A sea-monster had been
 enamoured of the pearl that the diver brought to King Perozes, and had slain
 the thief, and mourned for seven moons over its loss. When the Huns lured the
@@ -308,7 +339,7 @@ king into the great pit, he flung it away—Procopius tells the
 story—nor was it ever found again, though the Emperor Anastasius offered
 five hundred-weight of gold pieces for it. The King of Malabar had shown to a
 certain Venetian a rosary of three hundred and four pearls, one for every god
-that he worshipped.
+that he worshipped.{% include essay/feature/aside.html text="More figures are referenced here, including the explorer, Marco Polo, the Iranian king, Peroz I, the Greek historian, Procopius, the Roman emporor, Anastasius, and an unnamed king of Malabar. They are related to one another. The story of Peroz I and Anastasius is detailed in Procopius's book <a href='/items/dor084.html'>The History of the Wars</a>, while the story of the King of Malabar is an exaggeration of an <a href='/items/dor083.html'>account of Marco Polo</a>." %}
 
 When the Duke de Valentinois, son of Alexander VI., visited Louis XII. of
 France, his horse was loaded with gold leaves, according to Brantome, and his
@@ -324,11 +355,13 @@ studded with jacinths, a collar of gold roses set with turquoise-stones, and a
 skull-cap *parsemé* with pearls. Henry II. wore jewelled gloves reaching
 to the elbow, and had a hawk-glove sewn with twelve rubies and fifty-two great
 orients. The ducal hat of Charles the Rash, the last Duke of Burgundy of his
-race, was hung with pear-shaped pearls and studded with sapphires.
+race, was hung with pear-shaped pearls and studded with sapphires.{% include essay/feature/aside.html text="Wilde discusses multiple members of the nobility in this paragraph, first, <a href='/items/dor085a.html'>Cesare Borgia</a>, the illegitimate son of <a href='/items/dor085b.html'>Pope Alexander VI</a> and inspiration for Machiavelli's 'The Prince,' then Louis XII, the king of France. He also mentions <a href='/items/dor086.html'>Charles I</a>, <a href='/items/dor087.html'>Richard II</a>, <a href='/items/dor088.html'>Henry VIII</a>, <a href='/items/dor089.html'>James I</a>, <a href='/items/dor119.html'>Edward II</a>, and <a href='/items/dor090.html'>Henry II</a>, all kings of England. Finally, he references <a href='/items/dor091.html'>Piers Gaveston</a>, the first Earl of Cornwall, and <a href='/items/dor092.html'>Charles the Rash</a>, the Duke of Burgundy. Several of these figures, including Cesare Borgiaa, Charles I, Richard II, James I, Edward II, Piers Gaveston, and Henry II, were rumored to have had homosexual relationships. The note about Edward II giving a suite to Piers Gaveston is notable as the two were rumored to be lovers." %}
 
 How exquisite life had once been! How gorgeous in its pomp and decoration! Even
 to read of the luxury of the dead was wonderful.
+{% include essay/feature/essay-carousel.html carouselnum="carousel10" objectid="dor085a;dor085b;dor086;dor087;dor088;dor089;dor119;dor090;dor091;dor092" %}
 
+{% include essay/new-section.html %} 
 Then he turned his attention to embroideries and to the tapestries that
 performed the office of frescoes in the chill rooms of the northern nations of
 Europe. As he investigated the subject—and he always had an extraordinary
@@ -368,8 +401,10 @@ The state bed of Sobieski, King of Poland, was made of Smyrna gold brocade
 embroidered in turquoises with verses from the Koran. Its supports were of
 silver gilt, beautifully chased, and profusely set with enamelled and jewelled
 medallions. It had been taken from the Turkish camp before Vienna, and the
-standard of Mohammed had stood beneath the tremulous gilt of its canopy.
+standard of Mohammed had stood beneath the tremulous gilt of its canopy.{% include essay/feature/aside.html text="Several lost or inaccessible works of art are described here. First are the <a href='/items/dor093a.html'>peplos, or robes, of Athena</a>, that were made yearly by a select group of women. Second, is the missing <a href='/items/dor093b.html'>valerium</a>, or covering, that was at the top of the Colesseum. Also mentioned are the belongings of nobility such as the mortuary cloth of <a href='/items/dor093c.html'>King Chilperic</a>, a sixth century ruler of Western Europe, the robes of <a href='/items/dor093d.html'>Asterius of Amasea</a>, a fourth century bishop of modern-day Turkey, the coat of French nobleman and poet, <a href='/items/dor093e.html'>Charles of Orleans,</a> the room of <a href='/items/dor093f.html'>Queen Joan</a> in the Palace of Tau in France, the bed of <a href='/items/dor093g.html'>Catherine de Medicis</a>, a queen of France with ties to the occult, the statues of <a href='/items/dor093h.html'>Louis XIV</a>, a king of France, and the state bed of <a href='/items/dor093i.html'>John III Sobieski</a>, a king of Poland." %}
+{% include essay/feature/essay-carousel.html carouselnum="carousel11" objectid="dor093a;dor093b;dor093c;dor093d;dor093e;dor093f;dor093g;dor093h;dor093i" %}
 
+{% include essay/new-section.html %} 
 And so, for a whole year, he sought to accumulate the most exquisite specimens
 that he could find of textile and embroidered work, getting the dainty Delhi
 muslins, finely wrought with gold-thread palmates and stitched over with
@@ -399,7 +434,7 @@ heart-shaped groups of acanthus-leaves, from which spread long-stemmed white
 blossoms, the details of which were picked out with silver thread and coloured
 crystals. The morse bore a seraph’s head in gold-thread raised work. The
 orphreys were woven in a diaper of red and gold silk, and were starred with
-medallions of many saints and martyrs, among whom was St. Sebastian. He had
+medallions of many saints and martyrs, among whom was St. Sebastian.{% include essay/feature/aside.html text="It was mentioned earlier that Oscar Wilde took the name Sebastian, after St. Sebastian, upon his exile from England. St. Sebastian. He is the patron saint of athletes, archers, and soldiers and has long been associated with the LGBT community." objectid="dor071" %} He had
 chasubles, also, of amber-coloured silk, and blue silk and gold brocade, and
 yellow silk damask and cloth of gold, figured with representations of the
 Passion and Crucifixion of Christ, and embroidered with lions and peacocks and
@@ -419,17 +454,18 @@ it had draped the purple-and-gold pall as a curtain. For weeks he would not go
 there, would forget the hideous painted thing, and get back his light heart,
 his wonderful joyousness, his passionate absorption in mere existence. Then,
 suddenly, some night he would creep out of the house, go down to dreadful
-places near Blue Gate Fields, and stay there, day after day, until he was
+places near Blue Gate Fields,{% include essay/feature/aside.html aside-type="location" text="Blue Gate Fields was a notorious slum in East London. It is also mentioned in Charles Dickens's The Mystery of Edwin Drood." objectid="dor094" %} and stay there, day after day, until he was
 driven away. On his return he would sit in front of the picture, sometimes
 loathing it and himself, but filled, at other times, with that pride of
 individualism that is half the fascination of sin, and smiling with secret
 pleasure at the misshapen shadow that had to bear the burden that should have
 been his own.
+{% include essay/new-section.html %} 
 
 After a few years he could not endure to be long out of England, and gave up
-the villa that he had shared at Trouville with Lord Henry, as well as the
+the villa that he had shared at Trouville with Lord Henry,{% include essay/feature/aside.html aside-type="location" text="Trouville is a fishing village in France, known to have been frequented by many famous artists such as Monet and Proust." objectid="dor094" %} as well as the
 little white walled-in house at Algiers where they had more than once spent the
-winter. He hated to be separated from the picture that was such a part of his
+winter.{% include essay/feature/aside.html aside-type="location" text="Algiers is a the capital of Algeria." objectid="dor095" %} He hated to be separated from the picture that was such a part of his
 life, and was also afraid that during his absence some one might gain access to
 the room, in spite of the elaborate bars that he had caused to be placed upon
 the door.
@@ -442,7 +478,7 @@ how vile and full of shame it looked? Even if he told them, would they believe
 it?
 
 Yet he was afraid. Sometimes when he was down at his great house in
-Nottinghamshire, entertaining the fashionable young men of his own rank who
+Nottinghamshire,{% include essay/feature/aside.html aside-type="location" text="Nottinghamshire is a county in the East Midlands of England and home to the famous Sherwood Forest, where Robin Hood was set." objectid="dor096" %} entertaining the fashionable young men of his own rank who
 were his chief companions, and astounding the county by the wanton luxury and
 gorgeous splendour of his mode of life, he would suddenly leave his guests and
 rush back to town to see that the door had not been tampered with and that the
@@ -455,7 +491,7 @@ very nearly blackballed at a West End club of which his birth and social
 position fully entitled him to become a member, and it was said that on one
 occasion, when he was brought by a friend into the smoking-room of the
 Churchill, the Duke of Berwick and another gentleman got up in a marked manner
-and went out. Curious stories became current about him after he had passed his
+and went out.{% include essay/feature/aside.html aside-type="location" text="West End is an area of London known at that time for its shopping and gentlemen's clubs." objectid="dor097" %} Curious stories became current about him after he had passed his
 twenty-fifth year. It was rumoured that he had been seen brawling with foreign
 sailors in a low den in the distant parts of Whitechapel, and that he consorted
 with thieves and coiners and knew the mysteries of their trade. His
@@ -492,6 +528,8 @@ with the wit and beauty that make such plays delightful to us. Is insincerity
 such a terrible thing? I think not. It is merely a method by which we can
 multiply our personalities.
 
+{% include essay/new-section.html %} 
+
 Such, at any rate, was Dorian Gray’s opinion. He used to wonder at the
 shallow psychology of those who conceive the ego in man as a thing simple,
 permanent, reliable, and of one essence. To him, man was a being with myriad
@@ -502,7 +540,7 @@ gaunt cold picture-gallery of his country house and look at the various
 portraits of those whose blood flowed in his veins. Here was Philip Herbert,
 described by Francis Osborne, in his Memoires on the Reigns of Queen Elizabeth
 and King James, as one who was “caressed by the Court for his handsome
-face, which kept him not long company.” Was it young Herbert’s life
+face, which kept him not long company.”{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor099.html'>Francis Osborne</a> wrote his book about palace gossip during the reign of King Jame I. It was said that King James I had a homosexual relationship with <a href='/items/dor100.html'>Philip Herbert</a>, the Earl of Pembroke." %} Was it young Herbert’s life
 that he sometimes led? Had some strange poisonous germ crept from body to body
 till it had reached his own? Was it some dim sense of that ruined grace that
 had made him so suddenly, and almost without cause, give utterance, in Basil
@@ -510,7 +548,7 @@ Hallward’s studio, to the mad prayer that had so changed his life? Here,
 in gold-embroidered red doublet, jewelled surcoat, and gilt-edged ruff and
 wristbands, stood Sir Anthony Sherard, with his silver-and-black armour piled
 at his feet. What had this man’s legacy been? Had the lover of Giovanna
-of Naples bequeathed him some inheritance of sin and shame? Were his own
+of Naples bequeathed him some inheritance of sin and shame?{% include essay/feature/aside.html aside-type="allusion" text="Sir Anthony Sherard likely doesn't exist, but Giovanna." %} Were his own
 actions merely the dreams that the dead man had not dared to realize? Here,
 from the fading canvas, smiled Lady Elizabeth Devereux, in her gauze hood,
 pearl stomacher, and pink slashed sleeves. A flower was in her right hand, and

@@ -300,7 +300,7 @@ It never occurred to me that you would refuse. I see now that you were right.
 The picture cannot be shown. You must not be angry with me, Dorian, for what I
 have told you. As I said to Harry, once, you are made to be worshipped.”
 
-{% include essay/feature/essay-carousel.html id="carousel4" objectid="dor003;dor047;dor048" %}
+{% include essay/feature/essay-carousel.html carouselnum="carousel4" objectid="dor003;dor047;dor048" %}
 
 {% include essay/new-section.html %} 
 
