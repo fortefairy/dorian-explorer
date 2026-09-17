@@ -63,21 +63,21 @@ author: Wilde, Oscar, 1854-1900
 # - Use for descriptive subtitle or project tagline
 # - Can also use HTML for multi-line display:
 #   tagline: "A Digital Edition<br>Published 2024"
-tagline: Essay in the front, CollectionBuilder in the back
+tagline: An exploration of Oscar Wilde's influences.
 #
 # METADATA FIELDS (for search engines and social media):
 #
 # description: Longer description for search engines and social sharing (recommended)
 # - Appears in meta tags and search results
 # - Keep around 160 characters max for best display in search results
-description: "A digital edition of The Picture of Dorian Gray by Wilde, Oscar, 1854-1900,
+description: "An annotated edition of The Picture of Dorian Gray by Wilde, Oscar, 1854-1900,
   extracted from Project Gutenberg"
 #
 # keywords: Short list of subjects separated by semicolons, for rich markup metadata
 keywords: digital humanities; multimodal essays; lib-static
 #
 # exhibit-creator: Creator of the digital collection for meta tags (your name or GitHub username)
-exhibit-creator: dcnb
+exhibit-creator: Taylor Faires
 
 ##########
 # COLLECTION SETTINGS
@@ -100,11 +100,10 @@ metadata: doriandata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "UChicago Center for Digital Scholarship"
+organization-link: https://www.lib.uchicago.edu/research/scholar/
 organization-logo-banner: 
-  https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav:
 
 ##########
 # ROBOTS EXCLUDE
