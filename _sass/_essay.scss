@@ -140,14 +140,14 @@ aside.aside--left, .aside.aside--left {
     margin-right: 0;
     width: 14vw;
 
-    @media (max-width: 1199px) {
+    @media (max-width: 1200px) {
         margin-left: -11vw;
         width: 9vw;
     }
 }
 
 /*Marginal Notes on mobile — kept as fallback for no-JS; JS hides and replaces with flag system */
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
     aside, .aside {
         display: block;
         float: none;
