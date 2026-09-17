@@ -18,10 +18,9 @@
 # - Collection objectid: demo_001
 #
 image-style: full-image                # full-image, half-image, or no-image
-featured-image: https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg
-featured-image-credit: "This is a cover of the The Picture of Dorian Gray by Wilde,
-  Oscar, 1854-1900 as extracted from Project Gutenberg; it can be found here: https://www.gutenberg.org/ebooks/174"
-featured-image-alt-text: "Cover image of The Picture of Dorian Gray"               # Add alt text for accessibility
+featured-image: https://upload.wikimedia.org/wikipedia/commons/f/fd/From_The_Picture_of_Dorian_Gray_by_Eug%C3%A8ne_D%C3%A9t%C3%A9_after_Thiriat.png
+featured-image-credit: "The death of Dorian Gray (Eugène Dété, after Paul Thiriat)"
+featured-image-alt-text: "The death of Dorian Gray"               # Add alt text for accessibility
 
 
 # NAVIGATION FEATURES
