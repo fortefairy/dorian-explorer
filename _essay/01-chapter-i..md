@@ -165,6 +165,15 @@ he who is revealed by the painter; it is rather the painter who, on the
 coloured canvas, reveals himself. The reason I will not exhibit this picture is
 that I am afraid that I have shown in it the secret of my own soul.”
 
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="Every portrait that is painted with feeling is a portrait of the artist,
+not of the sitter."
+   speaker="Basil Hallward" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
+
 Lord Henry laughed. “And what is that?” he asked.
 
 “I will tell you,” said Hallward; but an expression of perplexity
@@ -328,7 +337,7 @@ sometimes think, Harry, that there are only two eras of any importance in the
 world’s history. The first is the appearance of a new medium for art, and
 the second is the appearance of a new personality for art also. What the
 invention of oil-painting was to the Venetians, the face of Antinous was to
-late Greek sculpture, and the face of Dorian Gray will some day be to me. {% include essay/feature/aside.html objectid="dor004" aside-type="allusion" text="Antinous was a Greek boy and lover of the Roman emporer, Hadrian. After his death, Hadrian deified the boy, founding a city in his name and commissioned sculptures. Over the centuries, he has come to signify homosexuality. The allusion to Antinous here is telling, suggesting that the relationship between Dorian and Basil is not altogether fraternal." %} It is
+late Greek sculpture, and the face of Dorian Gray will some day be to me.{% include essay/feature/aside.html objectid="dor004" aside-type="allusion" text="Antinous was a Greek boy and lover of the Roman emporer, Hadrian. After his death, Hadrian deified the boy, founding a city in his name and commissioned sculptures. Over the centuries, he has come to signify homosexuality. The allusion to Antinous here is telling, suggesting that the relationship between Dorian and Basil is not altogether fraternal." %} It is
 not merely that I paint from him, draw from him, sketch from him. Of course, I
 have done all that. But he is much more to me than a model or a sitter. I
 won’t tell you that I am dissatisfied with what I have done of him, or
@@ -356,6 +365,8 @@ in my life I saw in the plain woodland the wonder I had always looked for and
 always missed.”
 
 “Basil, this is extraordinary! I must see Dorian Gray.”
+
+{% include essay/new-section.html %} 
 
 Hallward got up from the seat and walked up and down the garden. After some
 time he came back. “Harry,” he said, “Dorian Gray is to me

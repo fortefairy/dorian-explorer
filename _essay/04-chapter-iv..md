@@ -20,7 +20,7 @@ Lord Henry had not yet come in. He was always late on principle, his principle
 being that punctuality is the thief of time. So the lad was looking rather
 sulky, as with listless fingers he turned over the pages of an elaborately
 illustrated edition of Manon Lescaut that he had found in one of the
-book-cases. {% include essay/feature/aside.html aside-type="allusion" text="Manon Lescaut is a French Romance novel that tells the story of a nobleman falling in love with a common woman. It is a tragedy that uses the romance to tell the story of a moral decline. It's inclusion here may be foreshadowing for the path Dorian's life takes." objectid="dor021" %} The formal monotonous ticking of the Louis Quatorze clock annoyed
+book-cases.{% include essay/feature/aside.html aside-type="allusion" text="Manon Lescaut is a French Romance novel that tells the story of a nobleman falling in love with a common woman. It is a tragedy that uses the romance to tell the story of a moral decline. It's inclusion here may be foreshadowing for the path Dorian's life takes." objectid="dor021" %} The formal monotonous ticking of the Louis Quatorze clock annoyed
 him. Once or twice he thought of going away.
 
 At last he heard a step outside, and the door opened. “How late you are,
@@ -45,7 +45,7 @@ in love with somebody, and, as her passion was never returned, she had kept all
 her illusions. She tried to look picturesque, but only succeeded in being
 untidy. Her name was Victoria, and she had a perfect mania for going to church.
 
-“That was at Lohengrin, Lady Henry, I think?” {% include essay/feature/aside.html aside-type="allusion" text="Lohengrin is an opera written by Wagner. The well known bridal chorus played at weddings comes from this opera." objectid="dor022" %} 
+“That was at Lohengrin, Lady Henry, I think?”{% include essay/feature/aside.html aside-type="allusion" text="Lohengrin is an opera written by Wagner. The well known bridal chorus played at weddings comes from this opera." objectid="dor022" %} 
 
 “Yes; it was at dear Lohengrin. I like Wagner’s music better than
 anybody’s. It is so loud that one can talk the whole time without other

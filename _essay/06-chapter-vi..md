@@ -72,7 +72,7 @@ interfere with what charming people do. If a personality fascinates me,
 whatever mode of expression that personality selects is absolutely delightful
 to me. Dorian Gray falls in love with a beautiful girl who acts Juliet, and
 proposes to marry her. Why not? If he wedded Messalina, he would be none the
-less interesting. {% include essay/feature/aside.html aside-type="allusion" text="Messalina was the third wife of the Roman emperor, Claudius. She was infamous for being promiscuous and allegedly conspired against her husband. She was executed for this alleged conspiracy" objectid="dor034" %}You know I am not a champion of marriage. The real drawback
+less interesting.{% include essay/feature/aside.html aside-type="allusion" text="Messalina was the third wife of the Roman emperor, Claudius. She was infamous for being promiscuous and allegedly conspired against her husband. She was executed for this alleged conspiracy" objectid="dor034" %} You know I am not a champion of marriage. The real drawback
 to marriage is that it makes one unselfish. And unselfish people are
 colourless. They lack individuality. Still, there are certain temperaments that
 marriage makes more complex. They retain their egotism, and add to it many
@@ -123,7 +123,7 @@ like, and then you will tell us how it all came about.”
 seats at the small round table. “What happened was simply this. After I
 left you yesterday evening, Harry, I dressed, had some dinner at that little
 Italian restaurant in Rupert Street you introduced me to, and went down at
-eight o’clock to the theatre. {% include essay/feature/aside.html aside-type="location" text="This street in London was named after Prince Rupert. It's now home to London's Gay Village, though it certainly wasn't at the time of the book." objectid="dor035" %}Sibyl was playing Rosalind. Of course, the
+eight o’clock to the theatre.{% include essay/feature/aside.html aside-type="location" text="This street in London was named after Prince Rupert. It's now home to London's Gay Village, though it certainly wasn't at the time of the book." objectid="dor035" %} Sibyl was playing Rosalind. Of course, the
 scenery was dreadful and the Orlando absurd. But Sibyl! You should have seen
 her! When she came on in her boy’s clothes, she was perfectly wonderful.
 She wore a moss-coloured velvet jerkin with cinnamon sleeves, slim, brown,

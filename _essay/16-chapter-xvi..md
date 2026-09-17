@@ -51,6 +51,8 @@ fire. A dog barked as they went by, and far away in the darkness some wandering
 sea-gull screamed. The horse stumbled in a rut, then swerved aside and broke
 into a gallop.
 
+{% include essay/new-section.html %} 
+
 After some time they left the clay road and rattled again over rough-paven
 streets. Most of the windows were dark, but now and then fantastic shadows were
 silhouetted against some lamplit blind. He watched them curiously. They moved
@@ -92,6 +94,8 @@ He hurried on towards the left, glancing back now and then to see if he was
 being followed. In about seven or eight minutes he reached a small shabby house
 that was wedged in between two gaunt factories. In one of the top-windows stood
 a lamp. He stopped and gave a peculiar knock.
+
+{% include essay/new-section.html %} 
 
 After a little time he heard steps in the passage and the chain being unhooked.
 The door opened quietly, and he went in without saying a word to the squat
@@ -191,6 +195,8 @@ Dorian, after a pause.
 “Good night,” answered the young man, passing up the steps and
 wiping his parched mouth with a handkerchief.
 
+{% include essay/new-section.html %} 
+
 Dorian walked to the door with a look of pain in his face. As he drew the
 curtain aside, a hideous laugh broke from the painted lips of the woman who had
 taken his money. “There goes the devil’s bargain!” she
@@ -224,6 +230,16 @@ either killed, or, if it lives at all, lives but to give rebellion its
 fascination and disobedience its charm. For all sins, as theologians weary not
 of reminding us, are sins of disobedience. When that high spirit, that morning
 star of evil, fell from heaven, it was as a rebel that he fell.
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="For all sins, as theologians weary not
+of reminding us, are sins of disobedience. When that high spirit, that morning
+star of evil, fell from heaven, it was as a rebel that he fell."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 Callous, concentrated on evil, with stained mind, and soul hungry for
 rebellion, Dorian Gray hastened on, quickening his step as he went, but as he
@@ -294,6 +310,8 @@ chance word I heard in that damned den set me on the wrong track.”
 “You had better go home and put that pistol away, or you may get into
 trouble,” said Dorian, turning on his heel and going slowly down the
 street.
+
+{% include essay/new-section.html %} 
 
 James Vane stood on the pavement in horror. He was trembling from head to foot.
 After a little while, a black shadow that had been creeping along the dripping

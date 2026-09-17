@@ -47,6 +47,8 @@ he read several times over and then tore up with a slight look of annoyance in
 his face. “That awful thing, a woman’s memory!” as Lord Henry
 had once said.
 
+{% include essay/new-section.html %} 
+
 After he had drunk his cup of black coffee, he wiped his lips slowly with a
 napkin, motioned to his servant to wait, and going over to the table, sat down
 and wrote two letters. One he put in his pocket, the other he handed to the
@@ -65,10 +67,10 @@ should do so.
 
 When he had stretched himself on the sofa, he looked at the title-page of the
 book. It was Gautier’s “Émaux et Camées”, Charpentier’s
-Japanese-paper edition, with the Jacquemart etching. The binding was of
+Japanese-paper edition, with the Jacquemart etching.{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor131.html'>Émaux et Camées</a> is. is an 1852 collection of romantic poems by Gautier. <a href='/items/dor132.html'>Marc-Antoine Charpentier</a> was a French Baroque composer." %} The binding was of
 citron-green leather, with a design of gilt trellis-work and dotted
 pomegranates. It had been given to him by Adrian Singleton. As he turned over
-the pages, his eye fell on the poem about the hand of Lacenaire, the cold
+the pages, his eye fell on the poem about the hand of Lacenaire,{% include essay/feature/aside.html aside-type="allusion" text="Lacenaire was a poet known for the double murder he comitted in 1834, which he framed as social critique. His actions inspired Gautier to write a poem and Dostoevsky to write Crime and Punishment." objectid="dor133"%} the cold
 yellow hand “*du supplice encore mal lavée*,” with its downy
 red hairs and its “*doigts de faune*.” He glanced at his own
 white taper fingers, shuddering slightly in spite of himself, and passed on,
@@ -120,23 +122,25 @@ had passed there, and a wonderful love that had stirred him to mad delightful
 follies. There was romance in every place. But Venice, like Oxford, had kept
 the background for romance, and, to the true romantic, background was
 everything, or almost everything. Basil had been with him part of the time, and
-had gone wild over Tintoret. Poor Basil! What a horrible way for a man to die!
+had gone wild over Tintoret.{% include essay/feature/aside.html aside-type="allusion" text="Tinteretto was an Italian Renaissance painter whose work was informed by the Venetian school." objectid="dor135"%} Poor Basil! What a horrible way for a man to die!
 
 He sighed, and took up the volume again, and tried to forget. He read of the
 swallows that fly in and out of the little *café* at Smyrna where the
 Hadjis sit counting their amber beads and the turbaned merchants smoke their
 long tasselled pipes and talk gravely to each other; he read of the Obelisk in
-the Place de la Concorde that weeps tears of granite in its lonely sunless
+the Place de la Concorde{% include essay/feature/aside.html aside-type="location" text="The Luxor Obelisks are ancient Egyptian obelisks that were removed from Egypt and placed in the Place de la Concorde in Paris." objectid="dor137"%} that weeps tears of granite in its lonely sunless
 exile and longs to be back by the hot, lotus-covered Nile, where there are
 Sphinxes, and rose-red ibises, and white vultures with gilded claws, and
 crocodiles with small beryl eyes that crawl over the green steaming mud; he
 began to brood over those verses which, drawing music from kiss-stained marble,
 tell of that curious statue that Gautier compares to a contralto voice, the
 “*monstre charmant*” that couches in the porphyry-room of the
-Louvre. But after a time the book fell from his hand. He grew nervous, and a
+Louvre.{% include essay/feature/aside.html aside-type="location" text="Wilde does not directly name the statue, but he is likely referring to the Sleeping Hermaphroditus that Gautier writes about. Hermaphroditus, in Greek mythology, was the child of Aphrodite and Hermes and symbolizes androgyny." objectid="dor138"%} But after a time the book fell from his hand. He grew nervous, and a
 horrible fit of terror came over him. What if Alan Campbell should be out of
 England? Days would elapse before he could come back. Perhaps he might refuse
 to come. What could he do then? Every moment was of vital importance.
+
+{% include essay/new-section.html %} 
 
 They had been great friends once, five years before—almost inseparable,
 indeed. Then the intimacy had come suddenly to an end. When they met in society
@@ -189,6 +193,8 @@ through moving masks. Then, suddenly, time stopped for him. Yes: that blind,
 slow-breathing thing crawled no more, and horrible thoughts, time being dead,
 raced nimbly on in front, and dragged a hideous future from its grave, and
 showed it to him. He stared at it. Its very horror made him stone.
+
+{% include essay/new-section.html %} 
 
 At last the door opened and his servant entered. He turned glazed eyes upon
 him.
@@ -324,6 +330,8 @@ anything in the matter. It is insane of you to ask me.”
 
 “It is useless.”
 
+{% include essay/new-section.html %} 
+
 The same look of pity came into Dorian Gray’s eyes. Then he stretched out
 his hand, took a piece of paper, and wrote something on it. He read it over
 twice, folded it carefully, and pushed it across the table. Having done this,
@@ -399,6 +407,15 @@ corruption to corruption, and now you have culminated in crime. In doing what I
 am going to do—what you force me to do—it is not of your life that
 I am thinking.”
 
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="Your life? Good heavens! what a life that is! You have gone from
+corruption to corruption, and now you have culminated in crime."
+   speaker="Alan Campbell" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
+
 “Ah, Alan,” murmured Dorian with a sigh, “I wish you had a
 thousandth part of the pity for me that I have for you.” He turned away
 as he spoke and stood looking out at the garden. Campbell made no answer.
@@ -411,7 +428,7 @@ platinum wire and two rather curiously shaped iron clamps.
 
 “Yes,” said Dorian. “And I am afraid, Francis, that I have
 another errand for you. What is the name of the man at Richmond who supplies
-Selby with orchids?”
+Selby with orchids?”{% include essay/feature/aside.html aside-type="location" text="Richmond is a town in Southwest London. In the nineteenth century it held many luxurious homes." objectid="dor141"%}
 
 “Harden, sir.”
 

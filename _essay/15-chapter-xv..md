@@ -49,6 +49,8 @@ neighbourhood since the time of Queen Elizabeth, and consequently they all fall
 asleep after dinner. You shan’t sit next either of them. You shall sit by
 me and amuse me.”
 
+{% include essay/new-section.html %} 
+
 Dorian murmured a graceful compliment and looked round the room. Yes: it was
 certainly a tedious party. Two of the people he had never seen before, and the
 others consisted of Ernest Harrowden, one of those middle-aged mediocrities so
@@ -79,6 +81,8 @@ Adolphe, who invented the *menu* specially for you,” and now and
 then Lord Henry looked across at him, wondering at his silence and abstracted
 manner. From time to time the butler filled his glass with champagne. He drank
 eagerly, and his thirst seemed to increase.
+
+{% include essay/new-section.html %} 
 
 “Dorian,” said Lord Henry at last, as the *chaud-froid* was
 being handed round, “what is the matter with you to-night? You are quite
@@ -238,6 +242,8 @@ murmured, as she swept out of the room.
 scandal,” cried Lady Narborough from the door. “If you do, we are
 sure to squabble upstairs.”
 
+{% include essay/new-section.html %} 
+
 The men laughed, and Mr. Chapman got up solemnly from the foot of the table and
 came up to the top. Dorian Gray changed his seat and went and sat by Lord
 Henry. Mr. Chapman began to talk in a loud voice about the situation in the
@@ -360,7 +366,7 @@ bedroom.
 
 As midnight was striking bronze blows upon the dusky air, Dorian Gray, dressed
 commonly, and with a muffler wrapped round his throat, crept quietly out of his
-house. In Bond Street he found a hansom with a good horse. He hailed it and in
+house. In Bond Street he found a hansom with a good horse.{% include essay/feature/aside.html aside-type="location" text="Bond Street is a street in the West End of London known for its upscale fashion stores." objectid="dor142"%} He hailed it and in
 a low voice gave the driver an address.
 
 The man shook his head. “It is too far for me,” he muttered.

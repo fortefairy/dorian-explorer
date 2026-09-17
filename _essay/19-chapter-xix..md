@@ -53,9 +53,10 @@ was the beginning of your reformation.”
 “Harry, you are horrible! You mustn’t say these dreadful things.
 Hetty’s heart is not broken. Of course, she cried and all that. But there
 is no disgrace upon her. She can live, like Perdita, in her garden of mint and
-marigold.”
+marigold.”{% include essay/feature/aside.html aside-type="allusion" text="Perdita is a heroine from William Shakespeare's 'The Winter's Tale'. Daughter of the King of Sicily, she was raised by a humble Shepherd in Bohemia with no knowledge of her family." objectid="dor145"%}
 
-“And weep over a faithless Florizel,” said Lord Henry, laughing, as
+“And weep over a faithless Florizel,”{% include essay/feature/aside.html aside-type="allusion" text="Florizel is the Prince of Bohemia and love interest of Perdita." objectid="dor146"%}
+ said Lord Henry, laughing, as
 he leaned back in his chair. “My dear Dorian, you have the most curiously
 boyish moods. Do you think this girl will ever be really content now with any
 one of her own rank? I suppose she will be married some day to a rough carter
@@ -113,6 +114,8 @@ lonely without her. Of course, married life is merely a habit, a bad habit. But
 then one regrets the loss even of one’s worst habits. Perhaps one regrets
 them the most. They are such an essential part of one’s
 personality.”
+
+{% include essay/new-section.html %} 
 
 Dorian said nothing, but rose from the table, and passing into the next room,
 sat down to the piano and let his fingers stray across the white and black
@@ -205,6 +208,15 @@ way, Dorian,” he said after a pause, “‘what does it profit a
 man if he gain the whole world and lose—how does the quotation
 run?—his own soul’?”
 
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="What does it profit a
+man if he gain the whole world and lose his own soul."
+   speaker="Lord Henry Wotten" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
+
 The music jarred, and Dorian Gray started and stared at his friend. “Why
 do you ask me that, Harry?”
 
@@ -252,8 +264,8 @@ How lovely that thing you are playing is! I wonder, did Chopin write it at
 Majorca, with the sea weeping round the villa and the salt spray dashing
 against the panes? It is marvellously romantic. What a blessing it is that
 there is one art left to us that is not imitative! Don’t stop. I want
-music to-night. It seems to me that you are the young Apollo and that I am
-Marsyas listening to you. I have sorrows, Dorian, of my own, that even you know
+music to-night. It seems to me that you are the young Apollo{% include essay/feature/aside.html aside-type="allusion" text="Apollo is the Greek God of the music, poetry and prophecy." objectid="dor167"%} said Lord Henry, laughing, as and that I am
+Marsyas listening to you.{% include essay/feature/aside.html aside-type="allusion" text="Marsyas is a satyr from Greek Mythology who challenged Apollo to a music contest and was flayed as punishment." objectid="dor168"%} I have sorrows, Dorian, of my own, that even you know
 nothing of. The tragedy of old age is not that one is old, but that one is
 young. I am amazed sometimes at my own sincerity. Ah, Dorian, how happy you
 are! What an exquisite life you have had! You have drunk deeply of everything.
@@ -284,6 +296,8 @@ afraid it has found. I am so glad that you have never done anything, never
 carved a statue, or painted a picture, or produced anything outside of
 yourself! Life has been your art. You have set yourself to music. Your days are
 your sonnets.”
+
+{% include essay/new-section.html %} 
 
 Dorian rose up from the piano and passed his hand through his hair. “Yes,
 life has been exquisite,” he murmured, “but I am not going to have
@@ -332,6 +346,12 @@ to consult you about some tapestries she is thinking of buying. Mind you come.
 Or shall we lunch with our little duchess? She says she never sees you now.
 Perhaps you are tired of Gladys? I thought you would be. Her clever tongue gets
 on one’s nerves. Well, in any case, be here at eleven.”
+
+{% include essay/feature/blockquote.html
+   quote="The books that the world calls immoral are books that show the world
+its own shame."
+   speaker="Lord Henry Wotten" size="xl"
+   align="center" %}
 
 “Must I really come, Harry?”
 

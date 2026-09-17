@@ -40,6 +40,8 @@ with added horror. Out of the black cave of time, terrible and swathed in
 scarlet, rose the image of his sin. When Lord Henry came in at six
 o’clock, he found him crying as one whose heart will break.
 
+{% include essay/new-section.html %} 
+
 It was not till the third day that he ventured to go out. There was something
 in the clear, pine-scented air of that winter morning that seemed to bring him
 back his joyousness and his ardour for life. But it was not merely the physical
@@ -99,6 +101,8 @@ ceased along the line.
 thicket. “Why on earth don’t you keep your men back? Spoiled my
 shooting for the day.”
 
+{% include essay/new-section.html %} 
+
 Dorian watched them as they plunged into the alder-clump, brushing the lithe
 swinging branches aside. In a few moments they emerged, dragging a body after
 them into the sunlight. He turned away in horror. It seemed to him that
@@ -147,6 +151,15 @@ As for omens, there is no such thing as an omen. Destiny does not send us
 heralds. She is too wise or too cruel for that. Besides, what on earth could
 happen to you, Dorian? You have everything in the world that a man can want.
 There is no one who would not be delighted to change places with you.”
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="As for omens, there is no such thing as an omen. Destiny does not send us
+heralds. She is too wise or too cruel for that."
+   speaker="Lord Henry Wotten" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 “There is no one with whom I would not change places, Harry. Don’t
 laugh like that. I am telling you the truth. The wretched peasant who has just
@@ -234,6 +247,8 @@ is all. I am afraid I walked too far this morning. I didn’t hear what
 Harry said. Was it very bad? You must tell me some other time. I think I must
 go and lie down. You will excuse me, won’t you?”
 
+{% include essay/new-section.html %} 
+
 They had reached the great flight of steps that led from the conservatory on to
 the terrace. As the glass door closed behind Dorian, Lord Henry turned and
 looked at the duchess with his slumberous eyes. “Are you very much in
@@ -286,6 +301,8 @@ She laughed. “I have still the mask.”
 “It makes your eyes lovelier,” was his reply.
 
 She laughed again. Her teeth showed like white seeds in a scarlet fruit.
+
+{% include essay/new-section.html %} 
 
 Upstairs, in his own room, Dorian Gray was lying on a sofa, with terror in
 every tingling fibre of his body. Life had suddenly become too hideous a burden
@@ -353,6 +370,8 @@ luck.”
 “The Home Farm! Go there at once and meet me. Tell one of the grooms to
 bring my horse round. No. Never mind. I’ll go to the stables myself. It
 will save time.”
+
+{% include essay/new-section.html %} 
 
 In less than a quarter of an hour, Dorian Gray was galloping down the long
 avenue as hard as he could go. The trees seemed to sweep past him in spectral

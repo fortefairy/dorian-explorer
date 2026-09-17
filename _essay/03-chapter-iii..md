@@ -5,7 +5,7 @@ order: 4
 ## CHAPTER III.
 
 At half-past twelve next day Lord Henry Wotton strolled from Curzon Street over
-to the Albany {% include essay/feature/aside.html aside-type="location" text="Albany is an apartment complex that dates back to the 18th century located in Picadilly, London. Lord Byron once resided there. Jack Worthing, Wilde's character from The Importance of Being Ernest also lives there under his assumed name. The building was known for housing bachelors." objectid="dor010"%} to call on his uncle, Lord Fermor, a genial if somewhat rough-mannered old bachelor, whom the outside world called selfish because it
+to the Albany{% include essay/feature/aside.html aside-type="location" text="Albany is an apartment complex that dates back to the 18th century located in Picadilly, London. Lord Byron once resided there. Jack Worthing, Wilde's character from The Importance of Being Ernest also lives there under his assumed name. The building was known for housing bachelors." objectid="dor010"%} to call on his uncle, Lord Fermor, a genial if somewhat rough-mannered old bachelor, whom the outside world called selfish because it
 derived no particular benefit from him, but who was considered generous by
 Society as he fed the people who amused him. His father had been our ambassador
 at Madrid when Isabella was young and Prim unthought of, but had retired from
@@ -146,7 +146,7 @@ secret of their charm.”
 always telling us that it is the paradise for women.”
 
 “It is. That is the reason why, like Eve, they are so excessively anxious
-to get out of it,” said Lord Henry. {% include essay/feature/aside.html aside-type="allusion" text="This biblical allusion refers to the creation myth of Adam and Eve wherein Eve is tempted by the unknown forbidden fruit. Her succumbing to this temptation requires Adam and Eve to leave the paradise of the Garden of Eden forever. This also serves as foreshadowing for the characters of Dorian and Sybil Vane." objectid="dor011" %}“Good-bye, Uncle George. I
+to get out of it,” said Lord Henry.{% include essay/feature/aside.html aside-type="allusion" text="This biblical allusion refers to the creation myth of Adam and Eve wherein Eve is tempted by the unknown forbidden fruit. Her succumbing to this temptation requires Adam and Eve to leave the paradise of the Garden of Eden forever. This also serves as foreshadowing for the characters of Dorian and Sybil Vane." objectid="dor011" %} “Good-bye, Uncle George. I
 shall be late for lunch, if I stop any longer. Thanks for giving me the
 information I wanted. I always like to know everything about my new friends,
 and nothing about my old ones.”
@@ -336,7 +336,7 @@ judge them.”
 “Dear me!” said Lady Agatha, “how you men argue! I am sure I
 never can make out what you are talking about. Oh! Harry, I am quite vexed with
 you. Why do you try to persuade our nice Mr. Dorian Gray to give up the East
-End? {% include essay/feature/aside.html aside-type="location" text="The East End of London was predominantly low income at the time Oscar Wilde was writing and largely consisted of Jewish and immigrant residents." objectid="dor015" %} I assure you he would be quite invaluable. They would love his
+End?{% include essay/feature/aside.html aside-type="location" text="The East End of London was predominantly low income at the time Oscar Wilde was writing and largely consisted of Jewish and immigrant residents." objectid="dor015" %} I assure you he would be quite invaluable. They would love his
 playing.”
 
 “I want him to play to me,” cried Lord Henry, smiling, and he
@@ -416,7 +416,7 @@ it with paradox. The praise of folly, as he went on, soared into a philosophy,
 and philosophy herself became young, and catching the mad music of pleasure,
 wearing, one might fancy, her wine-stained robe and wreath of ivy, danced like
 a Bacchante over the hills of life,{% include essay/feature/aside.html aside-type="allusion" text="A Bacchante is a priestess of the Greek God, Dionysus, known as Bacchus in Rome. Dionysus was the god of theatre, wine, festivity, and religious ecstasy. They are described in The Bacchae by Euripides. The allusion to the Bacchae here serves to hint at the desctructive hedonism that will plague the rest of the book/" objectid="dor016" record="True"%} and mocked the slow Silenus for being
-sober. {% include essay/feature/aside.html aside-type="allusion" text="Silenus was a satyr in Greek mythology who advised and tutored Dionysus. Silenus is typically depicted as being drunk. The notion of mocking Silenus for being sober suggests that the hedonism goes beyond mere drunkenness" record="True" objectid="dor017" %}Facts fled before her like frightened forest things. Her white feet trod
+sober.{% include essay/feature/aside.html aside-type="allusion" text="Silenus was a satyr in Greek mythology who advised and tutored Dionysus. Silenus is typically depicted as being drunk. The notion of mocking Silenus for being sober suggests that the hedonism goes beyond mere drunkenness" record="True" objectid="dor017" %} Facts fled before her like frightened forest things. Her white feet trod
 the huge press at which wise Omar sits, till the seething grape-juice rose
 round her bare limbs in waves of purple bubbles, or crawled in red foam over
 the vat’s black, dripping, sloping sides. It was an extraordinary
@@ -481,7 +481,7 @@ has a perfect host, and a perfect library.”
 
 “You will complete it,” answered the old gentleman with a courteous
 bow. “And now I must bid good-bye to your excellent aunt. I am due at the
-Athenaeum. {% include essay/feature/aside.html aside-type="location" text="The Athenaeum Club is a mixed-gender social club that dates back to the 19th century. Its focus is on individuals with intellectual interests. Throughout its history, it has boasted membership of many famous individuals including Henry James, Rudyard Kipling, Robert Louis Stevenson, and Arthur Sullivan" objectid="dor019" %}It is the hour when we sleep there.”
+Athenaeum.{% include essay/feature/aside.html aside-type="location" text="The Athenaeum Club is a mixed-gender social club that dates back to the 19th century. Its focus is on individuals with intellectual interests. Throughout its history, it has boasted membership of many famous individuals including Henry James, Rudyard Kipling, Robert Louis Stevenson, and Arthur Sullivan" objectid="dor019" %} It is the hour when we sleep there.”
 
 “All of you, Mr. Erskine?”
 

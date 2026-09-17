@@ -41,6 +41,8 @@ you.”
 Dorian Gray languidly as he passed up the steps and opened the door with his
 latch-key.
 
+{% include essay/new-section.html %} 
+
 The lamplight struggled out through the fog, and Hallward looked at his watch.
 “I have heaps of time,” he answered. “The train doesn’t
 go till twelve-fifteen, and it is only just eleven. In fact, I was on my way to
@@ -118,7 +120,7 @@ it, Dorian, that a man like the Duke of Berwick leaves the room of a club when
 you enter it? Why is it that so many gentlemen in London will neither go to
 your house or invite you to theirs? You used to be a friend of Lord Staveley. I
 met him at dinner last week. Your name happened to come up in conversation, in
-connection with the miniatures you have lent to the exhibition at the Dudley.
+connection with the miniatures you have lent to the exhibition at the Dudley.{% include essay/feature/aside.html aside-type="location" text="Dudle House is an aristocratic townhouse in Mayfair first built in 1742." objectid="dor129" %}
 Staveley curled his lip and said that you might have the most artistic tastes,
 but that you were a man whom no pure-minded girl should be allowed to know, and
 whom no chaste woman should sit in the same room with. I reminded him that I
@@ -131,6 +133,15 @@ and his dreadful end? What about Lord Kent’s only son and his career? I
 met his father yesterday in St. James’s Street. He seemed broken with
 shame and sorrow. What about the young Duke of Perth? What sort of life has he
 got now? What gentleman would associate with him?”
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="Sin is a thing that writes itself across a man’s face. It cannot be
+concealed. People talk sometimes of secret vices. There are no such things."
+   speaker="Basil Hallward" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 “Stop, Basil. You are talking about things of which you know
 nothing,” said Dorian Gray, biting his lip, and with a note of infinite
@@ -203,6 +214,15 @@ believe you. If they did believe you, they would like me all the better for it.
 I know the age better than you do, though you will prate about it so tediously.
 Come, I tell you. You have chattered enough about corruption. Now you shall
 look on it face to face.”
+
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="You have chattered enough about corruption. Now you shall
+look on it face to face."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
 
 There was the madness of pride in every word he uttered. He stamped his foot
 upon the ground in his boyish insolent manner. He felt a terrible joy at the

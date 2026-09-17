@@ -109,7 +109,7 @@ absolutely nothing to do, almost died of *ennui*, and became a confirmed
 misanthrope. And besides, my dear old Basil, if you really want to console me,
 teach me rather to forget what has happened, or to see it from a proper
 artistic point of view. Was it not Gautier who used to write about *la
-consolation des arts*? {% include essay/feature/aside.html aside-type="allusion" text="Guatier was a French art and literary critic. The phrase, 'la consolation des arts' can be translated to 'the consolation of the arts'. Dorian is using art here as a justification for suffering." objectid="dor046" %}I remember picking up a little vellum-covered book in
+consolation des arts*?{% include essay/feature/aside.html aside-type="allusion" text="Guatier was a French art and literary critic. The phrase, 'la consolation des arts' can be translated to 'the consolation of the arts'. Dorian is using art here as a justification for suffering." objectid="dor046" %} I remember picking up a little vellum-covered book in
 your studio one day and chancing on that delightful phrase. Well, I am not like
 that young man you told me of when we were down at Marlow together, the young
 man who used to say that yellow satin could console one for all the miseries of
@@ -274,7 +274,7 @@ and as Adonis with huntsman’s cloak and polished boar-spear. Crowned with
 heavy lotus-blossoms you had sat on the prow of Adrian’s barge, gazing
 across the green turbid Nile. You had leaned over the still pool of some Greek
 woodland and seen in the water’s silent silver the marvel of your own
-face. {% include essay/feature/aside.html aside-type="allusion" text="Basil references three figures from Greek Mythology. First, <a href='/items/dor047.html'>Paris </a>, the Prince of Troy whose elopement with Helen sparked the Trojan War. He then references <a href='/items/dor048.html'>Adonis, </a> a mortal lover of Aphrodite and <a href='/items/dor003.html'>Narcissus</a>, the beautiful man who fell in love with his reflection." %}And it had all been what art should be—unconscious, ideal, and
+face.{% include essay/feature/aside.html aside-type="allusion" text="Basil references three figures from Greek Mythology. First, <a href='/items/dor047.html'>Paris </a>, the Prince of Troy whose elopement with Helen sparked the Trojan War. He then references <a href='/items/dor048.html'>Adonis, </a> a mortal lover of Aphrodite and <a href='/items/dor003.html'>Narcissus</a>, the beautiful man who fell in love with his reflection." %} And it had all been what art should be—unconscious, ideal, and
 remote. One day, a fatal day I sometimes think, I determined to paint a
 wonderful portrait of you as you actually are, not in the costume of dead ages,
 but in your own dress and in your own time. Whether it was the realism of the

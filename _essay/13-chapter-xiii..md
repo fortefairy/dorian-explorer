@@ -69,6 +69,8 @@ real joy. There was simply the passion of the spectator, with perhaps a flicker
 of triumph in his eyes. He had taken the flower out of his coat, and was
 smelling it, or pretending to do so.
 
+{% include essay/new-section.html %} 
+
 “What does this mean?” cried Hallward, at last. His own voice
 sounded shrill and curious in his ears.
 
@@ -132,6 +134,8 @@ sins. Wash away our iniquities.’ Let us say that together. The prayer of
 your pride has been answered. The prayer of your repentance will be answered
 also. I worshipped you too much. I am punished for it. You worshipped yourself
 too much. We are both punished.”
+
+{% include essay/new-section.html %} 
 
 Dorian Gray turned slowly around and looked at him with tear-dimmed eyes.
 “It is too late, Basil,” he faltered.
@@ -203,6 +207,8 @@ took it from the table. He could not help seeing the dead thing. How still it
 was! How horribly white the long hands looked! It was like a dreadful wax
 image.
 
+{% include essay/new-section.html %} 
+
 Having locked the door behind him, he crept quietly downstairs. The woodwork
 creaked and seemed to cry out as if in pain. He stopped several times and
 waited. No: everything was still. It was merely the sound of his own footsteps.
@@ -264,4 +270,4 @@ Dorian Gray threw his hat and coat upon the table and passed into the library.
 For a quarter of an hour he walked up and down the room, biting his lip and
 thinking. Then he took down the Blue Book from one of the shelves and began to
 turn over the leaves. “Alan Campbell, 152, Hertford Street,
-Mayfair.” Yes; that was the man he wanted.
+Mayfair.”{% include essay/feature/aside.html aside-type="location" text="Hertford Street is a street in Mayfair, London." objectid="dor130" %} Yes; that was the man he wanted.

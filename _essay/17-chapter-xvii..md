@@ -87,7 +87,7 @@ have made our England what she is.”
 
 “What do they say of us?”
 
-“That Tartuffe has emigrated to England and opened a shop.”
+“That Tartuffe has emigrated to England and opened a shop.”{% include essay/feature/aside.html aside-type="allusion" text="Tartuffe is a famous comedy by Molière about an imposter who takes advantage of a wealthy family. The comedy is a satire about religious hypocrisy." objectid="dor143"%}
 
 “Is that yours, Harry?”
 
@@ -233,7 +233,7 @@ cousin. “You had better take care. He is very fascinating.”
 
 “Greek meets Greek, then?”
 
-“I am on the side of the Trojans. They fought for a woman.”
+“I am on the side of the Trojans. They fought for a woman.”{% include essay/feature/aside.html aside-type="allusion" text="This is a reference to the events in the Trojan War, a long conflict in Greek Mythology said to have been started when Helen, the Queen of Sparta and wife of King Agamemnon, left Sparta to be with Paris, a Trojan prince." objectid="dor144"%}
 
 “They were defeated.”
 

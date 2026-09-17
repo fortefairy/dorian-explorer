@@ -55,6 +55,16 @@ to him but a mask, his youth but a mockery. What was youth at best? A green, an
 unripe time, a time of shallow moods, and sickly thoughts. Why had he worn its
 livery? Youth had spoiled him.
 
+{% include essay/new-section.html %} 
+
+{% include essay/feature/blockquote.html
+   quote="he loathed his own beauty, and flinging the mirror on
+the floor, crushed it into silver splinters beneath his heel. It was his beauty
+that had ruined him, his beauty and the youth that he had prayed for."
+   speaker="Dorian Gray" size="xl"
+   align="center" %}
+{% include essay/new-section.html %} 
+
 It was better not to think of the past. Nothing could alter that. It was of
 himself, and of his own future, that he had to think. James Vane was hidden in
 a nameless grave in Selby churchyard. Alan Campbell had shot himself one night
@@ -124,6 +134,8 @@ kept him awake at night. When he had been away, he had been filled with terror
 lest other eyes should look upon it. It had brought melancholy across his
 passions. Its mere memory had marred many moments of joy. It had been like
 conscience to him. Yes, it had been conscience. He would destroy it.
+
+{% include essay/new-section.html %} 
 
 He looked round and saw the knife that had stabbed Basil Hallward. He had
 cleaned it many times, till there was no stain left upon it. It was bright, and

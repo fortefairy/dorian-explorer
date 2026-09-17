@@ -112,9 +112,9 @@ yet in his inmost heart he desired to be something more than a mere *arbiter
 elegantiarum*, to be consulted on the wearing of a jewel, or the knotting of
 a necktie, or the conduct of a cane. He sought to elaborate some new scheme of
 life that would have its reasoned philosophy and its ordered principles, and
-find in the spiritualizing of the senses its highest realization.{% include essay/feature/aside.html aside-type="location" text="<a href='/items/dor062.html'>The Satyricon</a> was a famous satirical work of fiction from the early Roman Empire believed to be written by <a href='/items/dor063.html'>Petronius</a>, a courtier of <a href='/items/dor089.html'>Nero</a>" %}
+find in the spiritualizing of the senses its highest realization.{% include essay/feature/aside.html aside-type="location" text="<a href='/items/dor062.html'>The Satyricon</a> was a famous satirical work of fiction from the early Roman Empire believed to be written by <a href='/items/dor063.html'>Petronius</a>, a courtier of <a href='/items/dor108.html'>Nero</a>" %}
 
-{% include essay/feature/essay-carousel.html carouselnum="carousel6" objectid="dor062;dor063;dor089" %}
+{% include essay/feature/essay-carousel.html carouselnum="carousel6" objectid="dor062;dor063;dor108" %}
 
 {% include essay/new-section.html %} 
 
@@ -325,7 +325,7 @@ wearer from any danger by fire.{% include essay/feature/aside.html text="Two add
 The King of Ceilan{% include essay/feature/aside.html text="Ceilan, also spelled Ceylon is located in modern day Sri Lanka." %} rode through his city with a large ruby in his hand, as the
 ceremony of his coronation. The gates of the palace of John the Priest were
 “made of sardius, with the horn of the horned snake inwrought, so that no
-man might bring poison within.” {% include essay/feature/aside.html text="John the Priest, or Prestor John, is a mythological Christian patriarch who was said to have ruled over a Christian nation in a predominantly Muslim and pagan area. Some accounts place him in Central Asia while others place him in Ethiopia." objectid="dor081" %} Over the gable were “two golden
+man might bring poison within.”{% include essay/feature/aside.html text="John the Priest, or Prestor John, is a mythological Christian patriarch who was said to have ruled over a Christian nation in a predominantly Muslim and pagan area. Some accounts place him in Central Asia while others place him in Ethiopia." objectid="dor081" %} Over the gable were “two golden
 apples, in which were two carbuncles,” so that the gold might shine by
 day and the carbuncles by night. In Lodge’s strange romance ‘A
 Margarite of America’, it was stated that in the chamber of the queen one
@@ -355,7 +355,7 @@ studded with jacinths, a collar of gold roses set with turquoise-stones, and a
 skull-cap *parsemé* with pearls. Henry II. wore jewelled gloves reaching
 to the elbow, and had a hawk-glove sewn with twelve rubies and fifty-two great
 orients. The ducal hat of Charles the Rash, the last Duke of Burgundy of his
-race, was hung with pear-shaped pearls and studded with sapphires.{% include essay/feature/aside.html text="Wilde discusses multiple members of the nobility in this paragraph, first, <a href='/items/dor085a.html'>Cesare Borgia</a>, the illegitimate son of <a href='/items/dor085b.html'>Pope Alexander VI</a> and inspiration for Machiavelli's 'The Prince,' then Louis XII, the king of France. He also mentions <a href='/items/dor086.html'>Charles I</a>, <a href='/items/dor087.html'>Richard II</a>, <a href='/items/dor088.html'>Henry VIII</a>, <a href='/items/dor089.html'>James I</a>, <a href='/items/dor119.html'>Edward II</a>, and <a href='/items/dor090.html'>Henry II</a>, all kings of England. Finally, he references <a href='/items/dor091.html'>Piers Gaveston</a>, the first Earl of Cornwall, and <a href='/items/dor092.html'>Charles the Rash</a>, the Duke of Burgundy. Several of these figures, including Cesare Borgiaa=, Charles I, Richard II, James I, Edward II, Piers Gaveston, and Henry II, were rumored to have had homosexual relationships. The note about Edward II giving a suite to Piers Gaveston is notable as the two were rumored to be lovers." %}
+race, was hung with pear-shaped pearls and studded with sapphires.{% include essay/feature/aside.html text="Wilde discusses multiple members of the nobility in this paragraph, first, <a href='/items/dor085.html#dor085a'>Cesare Borgia</a>, the illegitimate son of <a href='/items/dor085.html#dor085b'>Pope Alexander VI</a> and inspiration for Machiavelli's 'The Prince,' then Louis XII, the king of France. He also mentions <a href='/items/dor086.html'>Charles I</a>, <a href='/items/dor087.html'>Richard II</a>, <a href='/items/dor088.html'>Henry VIII</a>, <a href='/items/dor089.html'>James I</a>, <a href='/items/dor119.html'>Edward II</a>, and <a href='/items/dor090.html'>Henry II</a>, all kings of England. Finally, he references <a href='/items/dor091.html'>Piers Gaveston</a>, the first Earl of Cornwall, and <a href='/items/dor092.html'>Charles the Rash</a>, the Duke of Burgundy. Several of these figures, including Cesare Borgia, Charles I, Richard II, James I, Edward II, Piers Gaveston, and Henry II, were rumored to have had homosexual relationships. The note about Edward II giving a suite to Piers Gaveston is notable as the two were rumored to be lovers." %}
 
 How exquisite life had once been! How gorgeous in its pomp and decoration! Even
 to read of the luxury of the dead was wonderful.
@@ -401,7 +401,7 @@ The state bed of Sobieski, King of Poland, was made of Smyrna gold brocade
 embroidered in turquoises with verses from the Koran. Its supports were of
 silver gilt, beautifully chased, and profusely set with enamelled and jewelled
 medallions. It had been taken from the Turkish camp before Vienna, and the
-standard of Mohammed had stood beneath the tremulous gilt of its canopy.{% include essay/feature/aside.html text="Several lost or inaccessible works of art are described here. First are the <a href='/items/dor093a.html'>peplos, or robes, of Athena</a>, that were made yearly by a select group of women. Second, is the missing <a href='/items/dor093b.html'>valerium</a>, or covering, that was at the top of the Colesseum. Also mentioned are the belongings of nobility such as the mortuary cloth of <a href='/items/dor093c.html'>King Chilperic</a>, a sixth century ruler of Western Europe, the robes of <a href='/items/dor093d.html'>Asterius of Amasea</a>, a fourth century bishop of modern-day Turkey, the coat of French nobleman and poet, <a href='/items/dor093e.html'>Charles of Orleans,</a> the room of <a href='/items/dor093f.html'>Queen Joan</a> in the Palace of Tau in France, the bed of <a href='/items/dor093g.html'>Catherine de Medicis</a>, a queen of France with ties to the occult, the statues of <a href='/items/dor093h.html'>Louis XIV</a>, a king of France, and the state bed of <a href='/items/dor093i.html'>John III Sobieski</a>, a king of Poland." %}
+standard of Mohammed had stood beneath the tremulous gilt of its canopy.{% include essay/feature/aside.html text="Several lost or inaccessible works of art are described here. First are the <a href='/items/dor093.html#dor093a'>peplos, or robes, of Athena</a>, that were made yearly by a select group of women. Second, is the missing <a href='/items/dor093.html#dor093b'>valerium</a>, or covering, that was at the top of the Colesseum. Also mentioned are the belongings of nobility such as the mortuary cloth of <a href='/items/dor093.html#dor093c.html'>King Chilperic</a>, a sixth century ruler of Western Europe, the robes of <a href='/items/dor093.html#dor093d'>Asterius of Amasea</a>, a fourth century bishop of modern-day Turkey, the coat of French nobleman and poet, <a href='/items/dor093.html#dor093e'>Charles of Orleans,</a> the room of <a href='/items/dor093.html#dor093f'>Queen Joan</a> in the Palace of Tau in France, the bed of <a href='/items/dor093.html#dor093g'>Catherine de Medicis</a>, a queen of France with ties to the occult, the statues of <a href='/items/dor093.html#dor093h'>Louis XIV</a>, a king of France, and the state bed of <a href='/items/dor093.html#dor093i'>John III Sobieski</a>, a king of Poland." %}
 {% include essay/feature/essay-carousel.html carouselnum="carousel11" objectid="dor093a;dor093b;dor093c;dor093d;dor093e;dor093f;dor093g;dor093h;dor093i" %}
 
 {% include essay/new-section.html %} 
@@ -434,7 +434,7 @@ heart-shaped groups of acanthus-leaves, from which spread long-stemmed white
 blossoms, the details of which were picked out with silver thread and coloured
 crystals. The morse bore a seraph’s head in gold-thread raised work. The
 orphreys were woven in a diaper of red and gold silk, and were starred with
-medallions of many saints and martyrs, among whom was St. Sebastian.{% include essay/feature/aside.html text="It was mentioned earlier that Oscar Wilde took the name Sebastian, after St. Sebastian, upon his exile from England. St. Sebastian. He is the patron saint of athletes, archers, and soldiers and has long been associated with the LGBT community." objectid="dor071" %} He had
+medallions of many saints and martyrs, among whom was St. Sebastian.{% include essay/feature/aside.html text="It was mentioned earlier that Oscar Wilde took the name Sebastian, after St. Sebastian, upon his exile from England. St. Sebastian. He is the patron saint of athletes, archers, and soldiers and has long been associated with the LGBT community." objectid="dor094" %} He had
 chasubles, also, of amber-coloured silk, and blue silk and gold brocade, and
 yellow silk damask and cloth of gold, figured with representations of the
 Passion and Crucifixion of Christ, and embroidered with lions and peacocks and
@@ -454,7 +454,7 @@ it had draped the purple-and-gold pall as a curtain. For weeks he would not go
 there, would forget the hideous painted thing, and get back his light heart,
 his wonderful joyousness, his passionate absorption in mere existence. Then,
 suddenly, some night he would creep out of the house, go down to dreadful
-places near Blue Gate Fields,{% include essay/feature/aside.html aside-type="location" text="Blue Gate Fields was a notorious slum in East London. It is also mentioned in Charles Dickens's The Mystery of Edwin Drood." objectid="dor094" %} and stay there, day after day, until he was
+places near Blue Gate Fields,{% include essay/feature/aside.html aside-type="location" text="Blue Gate Fields was a notorious slum in East London. It is also mentioned in Charles Dickens's The Mystery of Edwin Drood." objectid="dor095" %} and stay there, day after day, until he was
 driven away. On his return he would sit in front of the picture, sometimes
 loathing it and himself, but filled, at other times, with that pride of
 individualism that is half the fascination of sin, and smiling with secret
@@ -463,9 +463,9 @@ been his own.
 {% include essay/new-section.html %} 
 
 After a few years he could not endure to be long out of England, and gave up
-the villa that he had shared at Trouville with Lord Henry,{% include essay/feature/aside.html aside-type="location" text="Trouville is a fishing village in France, known to have been frequented by many famous artists such as Monet and Proust." objectid="dor094" %} as well as the
+the villa that he had shared at Trouville with Lord Henry,{% include essay/feature/aside.html aside-type="location" text="Trouville is a fishing village in France, known to have been frequented by many famous artists such as Monet and Proust." objectid="dor096" %} as well as the
 little white walled-in house at Algiers where they had more than once spent the
-winter.{% include essay/feature/aside.html aside-type="location" text="Algiers is a the capital of Algeria." objectid="dor095" %} He hated to be separated from the picture that was such a part of his
+winter.{% include essay/feature/aside.html aside-type="location" text="Algiers is a the capital of Algeria." objectid="dor097" %} He hated to be separated from the picture that was such a part of his
 life, and was also afraid that during his absence some one might gain access to
 the room, in spite of the elaborate bars that he had caused to be placed upon
 the door.
@@ -478,7 +478,7 @@ how vile and full of shame it looked? Even if he told them, would they believe
 it?
 
 Yet he was afraid. Sometimes when he was down at his great house in
-Nottinghamshire,{% include essay/feature/aside.html aside-type="location" text="Nottinghamshire is a county in the East Midlands of England and home to the famous Sherwood Forest, where Robin Hood was set." objectid="dor096" %} entertaining the fashionable young men of his own rank who
+Nottinghamshire,{% include essay/feature/aside.html aside-type="location" text="Nottinghamshire is a county in the East Midlands of England and home to the famous Sherwood Forest, where Robin Hood was set." objectid="dor098" %} entertaining the fashionable young men of his own rank who
 were his chief companions, and astounding the county by the wanton luxury and
 gorgeous splendour of his mode of life, he would suddenly leave his guests and
 rush back to town to see that the door had not been tampered with and that the
@@ -491,7 +491,7 @@ very nearly blackballed at a West End club of which his birth and social
 position fully entitled him to become a member, and it was said that on one
 occasion, when he was brought by a friend into the smoking-room of the
 Churchill, the Duke of Berwick and another gentleman got up in a marked manner
-and went out.{% include essay/feature/aside.html aside-type="location" text="West End is an area of London known at that time for its shopping and gentlemen's clubs." objectid="dor097" %} Curious stories became current about him after he had passed his
+and went out.{% include essay/feature/aside.html aside-type="location" text="West End is an area of London known at that time for its shopping and gentlemen's clubs." objectid="dor099" %} Curious stories became current about him after he had passed his
 twenty-fifth year. It was rumoured that he had been seen brawling with foreign
 sailors in a low den in the distant parts of Whitechapel, and that he consorted
 with thieves and coiners and knew the mysteries of their trade. His
@@ -540,7 +540,7 @@ gaunt cold picture-gallery of his country house and look at the various
 portraits of those whose blood flowed in his veins. Here was Philip Herbert,
 described by Francis Osborne, in his Memoires on the Reigns of Queen Elizabeth
 and King James, as one who was “caressed by the Court for his handsome
-face, which kept him not long company.”{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor099.html'>Francis Osborne</a> wrote his book about palace gossip during the reign of King Jame I. It was said that King James I had a homosexual relationship with <a href='/items/dor100.html'>Philip Herbert</a>, the Earl of Pembroke." %} Was it young Herbert’s life
+face, which kept him not long company.”{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor100.html'>Francis Osborne</a> wrote his book about palace gossip during the reign of King Jame I. It was said that King James I had a homosexual relationship with <a href='/items/dor101.html'>Philip Herbert</a>, the Earl of Pembroke." %} Was it young Herbert’s life
 that he sometimes led? Had some strange poisonous germ crept from body to body
 till it had reached his own? Was it some dim sense of that ruined grace that
 had made him so suddenly, and almost without cause, give utterance, in Basil
@@ -548,7 +548,7 @@ Hallward’s studio, to the mad prayer that had so changed his life? Here,
 in gold-embroidered red doublet, jewelled surcoat, and gilt-edged ruff and
 wristbands, stood Sir Anthony Sherard, with his silver-and-black armour piled
 at his feet. What had this man’s legacy been? Had the lover of Giovanna
-of Naples bequeathed him some inheritance of sin and shame?{% include essay/feature/aside.html aside-type="allusion" text="Sir Anthony Sherard likely doesn't exist, but Giovanna of Naples was a fourtheenth century queen of Naples who was accused of murdering her first husband." objectid="dor101"%} Were his own
+of Naples bequeathed him some inheritance of sin and shame?{% include essay/feature/aside.html aside-type="allusion" text="Sir Anthony Sherard likely doesn't exist, but Giovanna of Naples was a fourtheenth century queen of Naples who was accused of murdering her first husband." objectid="dor102"%} Were his own
 actions merely the dreams that the dead man had not dared to realize? Here,
 from the fading canvas, smiled Lady Elizabeth Devereux, in her gauze hood,
 pearl stomacher, and pink slashed sleeves. A flower was in her right hand, and
@@ -565,7 +565,7 @@ in his youth, of Lord Ferrars. What of the second Lord Beckenham, the companion
 of the Prince Regent in his wildest days, and one of the witnesses at the
 secret marriage with Mrs. Fitzherbert? How proud and handsome he was, with his
 chestnut curls and insolent pose! What passions had he bequeathed? The world
-had looked upon him as infamous. He had led the orgies at Carlton House.{% include essay/feature/aside.html aside-type="allusion" text="Carlton House was the residence of Goerge IV, who was mentioned earlier and rumored to have been homosexual. The house was known for its extravagant parties." objectid="dor102"%} The
+had looked upon him as infamous. He had led the orgies at Carlton House.{% include essay/feature/aside.html aside-type="allusion" text="Carlton House was the residence of Goerge IV, who was mentioned earlier and rumored to have been homosexual. The house was known for its extravagant parties" objectid="dor103"%} The
 star of the Garter glittered upon his breast. Beside him hung the portrait of
 his wife, a pallid, thin-lipped woman in black. Her blood, also, stirred within
 him. How curious it all seemed! And his mother with her Lady Hamilton face and
@@ -591,7 +591,7 @@ The hero of the wonderful novel that had so influenced his life had himself
 known this curious fancy. In the seventh chapter he tells how, crowned with
 laurel, lest lightning might strike him, he had sat, as Tiberius, in a garden
 at Capri, reading the shameful books of Elephantis, while dwarfs and peacocks
-strutted round him and the flute-player mocked the swinger of the censer;{% include essay/feature/aside.html aside-type="allusion" text="The emperor <a href='/items/dor103.html'>Tiberius</a> lived in Capri in self-imposed exile during his final years. It is believed he engaged in sexually perverse and immoral activities there. <a href='/items/dor104.html'>Elephantis</a> was a poet known for writing an erotic manual."%} and,
+strutted round him and the flute-player mocked the swinger of the censer;{% include essay/feature/aside.html aside-type="allusion" text="The emperor <a href='/items/dor104.html'>Tiberius</a> lived in Capri in self-imposed exile during his final years. It is believed he engaged in sexually perverse and immoral activities there. <a href='/items/dor105.html'>Elephantis</a> was a poet known for writing an erotic manual."%} and,
 as Caligula, had caroused with the green-shirted jockeys in their stables and
 supped in an ivory manger with a jewel-frontleted horse; and, as Domitian, had
 wandered through a corridor lined with marble mirrors, looking round with
@@ -602,9 +602,9 @@ shambles of the circus and then, in a litter of pearl and purple drawn by
 silver-shod mules, been carried through the Street of Pomegranates to a House
 of Gold and heard men cry on Nero Caesar as he passed by; and, as Elagabalus,
 had painted his face with colours, and plied the distaff among the women, and
-brought the Moon from Carthage and given her in mystic marriage to the Sun.{% include essay/feature/aside.html aside-type="allusion" text="Wilde mentions three additional Roman Emperors, <a href='/items/dor105.html'>Caligula</a> and <a href='/items/dor120.html'>Elagabulus</a>, both of whom were known for their sexual promiscuity and <a href='/items/dor106.html'>Domitian</a> known for his censorship and desire to control and enforce morality. Caligula, in particular, is depicted as exceedingly cruel and violent."%} 
+brought the Moon from Carthage and given her in mystic marriage to the Sun.{% include essay/feature/aside.html aside-type="allusion" text="Wilde mentions three additional Roman Emperors, <a href='/items/dor106.html'>Caligula</a> and <a href='/items/dor125.html'>Elagabulus</a>, both of whom were known for their sexual promiscuity and <a href='/items/dor107.html'>Domitian</a> known for his censorship and desire to control and enforce morality. Caligula, in particular, is depicted as exceedingly cruel and violent."%} 
 
-{% include essay/feature/essay-carousel.html carouselnum="carousel12" objectid="dor0103;dor104;dor105;dor120;dor106" %}
+{% include essay/feature/essay-carousel.html carouselnum="carousel12" objectid="dor104;dor105;dor106;dor125;dor107" %}
 
 {% include essay/new-section.html %}
 Over and over again Dorian used to read this fantastic chapter, and the two
@@ -617,18 +617,18 @@ Venetian, known as Paul the Second, who sought in his vanity to assume the
 title of Formosus, and whose tiara, valued at two hundred thousand florins, was
 bought at the price of a terrible sin; Gian Maria Visconti, who used hounds to
 chase living men and whose murdered body was covered with roses by a harlot who
-had loved him;{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor108.html'>Filippo Maria Visconti</a> and <a href='/items/dor110.html'>Gian Maria Visconti</a> were brothers, both of whom were known to be cruel and violent. <a href='/items/dor109.html'>Pope Paul II</a> was known to hold particularly lavish ceremonies and was believed to be corrupt."%}  the Borgia on his white horse, with Fratricide riding beside him
+had loved him;{% include essay/feature/aside.html aside-type="allusion" text="<a href='/items/dor109.html'>Filippo Maria Visconti</a> and <a href='/items/dor111.html'>Gian Maria Visconti</a> were brothers, both of whom were known to be cruel and violent. <a href='/items/dor110.html'>Pope Paul II</a> was known to hold particularly lavish ceremonies and was believed to be corrupt."%}  the Borgia on his white horse, with Fratricide riding beside him
 and his mantle stained with the blood of Perotto; Pietro Riario, the young
 Cardinal Archbishop of Florence, child and minion of Sixtus IV., whose beauty
 was equalled only by his debauchery, and who received Leonora of Aragon in a
 pavilion of white and crimson silk, filled with nymphs and centaurs, and gilded
-a boy that he might serve at the feast as Ganymede or Hylas;{% include essay/feature/aside.html aside-type="allusion" text="Wilde alludes to several controversial figures within the Catholic Church here. First, he references the Borgia family again, specifically Cesare Borgia who murdered his sister <a href='/items/dor085c.html'>Lucrezia's</a> lover, Perotto. Next he describes <a href='/items/dor111.html'>Pietro Riario,</a> and his father, <a href='/items/dor112.html'>Pope Sixtus IV</a>, who were both viewed as corrupt and held a banquet for <a href='items/dor113.html'>Leonora of Aragon</a>. Finally, <a href='items/dor121.html'>Ganymede</a> and <a href='items/dor122.html'>Hylas</a> were both young male figures within Greek Mythology known for their beauty. Ganymede was the companion to Zeus and Hylas the companion to Heracles"%} Ezzelin, whose
+a boy that he might serve at the feast as Ganymede or Hylas;{% include essay/feature/aside.html aside-type="allusion" text="Wilde alludes to several controversial figures within the Catholic Church here. First, he references the Borgia family again, specifically Cesare Borgia who murdered his sister <a href='/items/dor085.html#dor085c'>Lucrezia's</a> lover, Perotto. Next he describes <a href='/items/dor112.html'>Pietro Riario,</a> and his father, <a href='/items/dor113.html'>Pope Sixtus IV</a>, who were both viewed as corrupt and held a banquet for <a href='items/dor114.html'>Leonora of Aragon</a>. Finally, <a href='items/dor126.html'>Ganymede</a> and <a href='items/dor127.html'>Hylas</a> were both young male figures within Greek Mythology known for their beauty. Ganymede was the companion to Zeus and Hylas the companion to Heracles"%} Ezzelin, whose
 melancholy could be cured only by the spectacle of death, and who had a passion
 for red blood, as other men have for red wine—the son of the Fiend, as
 was reported, and one who had cheated his father at dice when gambling with him
 for his own soul; Giambattista Cibo, who in mockery took the name of Innocent
 and into whose torpid veins the blood of three lads was infused by a Jewish
-doctor;{% include essay/feature/aside.html aside-type="allusion" text="<a href='items/dor114.html'>Ezzelino</a> was a real Italian feudal lord who was written about in Dante's Inferno. <a href='items/dor115.html'>Pope Innocent VIII</a> is another 'bad pope' that Wilde references who had ties to the occult. Oscar Wilde wrote about his fascination with 'bad popes' in his essay, <a href='items/dor123.html'>The Soul of Man Under Socialism.</a>"%} Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose
+doctor;{% include essay/feature/aside.html aside-type="allusion" text="<a href='items/dor115.html'>Ezzelino</a> was a real Italian feudal lord who was written about in Dante's Inferno. <a href='items/dor116.html'>Pope Innocent VIII</a> is another 'bad pope' that Wilde references who had ties to the occult. Oscar Wilde wrote about his fascination with 'bad popes' in his essay, <a href='items/dor128.html'>The Soul of Man Under Socialism.</a>"%} Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose
 effigy was burned at Rome as the enemy of God and man, who strangled Polyssena
 with a napkin, and gave poison to Ginevra d’Este in a cup of emerald, and
 in honour of a shameful passion built a pagan church for Christian worship;
@@ -639,9 +639,9 @@ the images of love and death and madness; and, in his trimmed jerkin and
 jewelled cap and acanthuslike curls, Grifonetto Baglioni, who slew Astorre with
 his bride, and Simonetto with his page, and whose comeliness was such that, as
 he lay dying in the yellow piazza of Perugia, those who had hated him could not
-choose but weep, and Atalanta, who had cursed him, blessed him.{% include essay/feature/aside.html aside-type="allusion" text="There are three more stories referenced here. <a href='/items/dor116a'>Sigismondo Malatesta</a> was an Italian nobleman who, allegedly killed his first and second wives, <a href='/items/dor116d'>Ginevra d’Este</a> and <a href='/items/dor116c'>Polissena Sforza</a>. <a href='/items/dor116b'>Isotta degli Atti</a> was his final wife. <a href='/items/dor117'>Charles IV</a> was a French king who suffered from psychosis. The final few sentences describe the <a href='/items/dor118.html'>Red Wedding of the Baglioni</a>, which inspired the Red Wedding from Game of Thrones."%} 
+choose but weep, and Atalanta, who had cursed him, blessed him.{% include essay/feature/aside.html aside-type="allusion" text="There are three more stories referenced here. <a href='/items/dor117.html#dor118'>Sigismondo Malatesta</a> was an Italian nobleman who, allegedly killed his first and second wives, <a href='/items/dor117.html#dor121'>Ginevra d’Este</a> and <a href='/items/dor117.html#dor120'>Polissena Sforza</a>. <a href='/items/dor119'>Isotta degli Atti</a> was his final wife. <a href='/items/dor122'>Charles IV</a> was a French king who suffered from psychosis. The final few sentences describe the <a href='/items/dor123.html'>Red Wedding of the Baglioni</a>, which inspired the Red Wedding from Game of Thrones."%} 
 
-{% include essay/feature/essay-carousel.html carouselnum="carousel12" objectid="dor0108;dor109;dor110;dor111;dor112;dor113;dor121;dor122;dor114;dor115;dor116a;dor116b;dor116c;dor117;dor118" %}
+{% include essay/feature/essay-carousel.html carouselnum="carousel13" objectid="dor109;dor110;dor111;dor085c;dor112;dor113;dor114;dor126;dor127;dor115;dor118;dor120;dor121;dor119;dor122;dor123" %}
 
 There was a horrible fascination in them all. He saw them at night, and they
 troubled his imagination in the day. The Renaissance knew of strange manners of

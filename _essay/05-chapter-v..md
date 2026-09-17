@@ -211,7 +211,7 @@ mother’s affectations.
 {% include essay/new-section.html %} 
 
 They went out into the flickering, wind-blown sunlight and strolled down the
-dreary Euston Road. {% include essay/feature/aside.html aside-type="location" text="Euston Road is a road in Central London. During the 18th and 19th Century, there were neighborhoods along it that were predominantly working class." objectid="dor031" %}The passersby glanced in wonder at the sullen heavy youth
+dreary Euston Road.{% include essay/feature/aside.html aside-type="location" text="Euston Road is a road in Central London. During the 18th and 19th Century, there were neighborhoods along it that were predominantly working class." objectid="dor031" %} The passersby glanced in wonder at the sullen heavy youth
 who, in coarse, ill-fitting clothes, was in the company of such a graceful,
 refined-looking girl. He was like a common gardener walking with a rose.
 
@@ -222,7 +222,7 @@ of the effect she was producing. Her love was trembling in laughter on her
 lips. She was thinking of Prince Charming, and, that she might think of him all
 the more, she did not talk of him, but prattled on about the ship in which Jim
 was going to sail, about the gold he was certain to find, about the wonderful
-heiress whose life he was to save from the wicked, red-shirted bushrangers. {% include essay/feature/aside.html aside-type="connection" text="Bushrangers were robbers and outlaws in the Australian Bush."%}For
+heiress whose life he was to save from the wicked, red-shirted bushrangers.{% include essay/feature/aside.html aside-type="connection" text="Bushrangers were robbers and outlaws in the Australian Bush."%} For
 he was not to remain a sailor, or a supercargo, or whatever he was going to be.
 Oh, no! A sailor’s existence was dreadful. Fancy being cooped up in a
 horrid ship, with the hoarse, hump-backed waves trying to get in, and a black
